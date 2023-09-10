@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HHLP913L7X"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-HHLP913L7X');
+  </script>
   <meta charset="UTF-8">
   <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -13,9 +22,44 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: 'https://github.com/zhuangdesheng/zhuangdesheng.github.io',
+      ga: 'G-HHLP913L7X',
+      noEmoji: true,
+      loadNavbar: true,
+      loadSidebar: false,
+      subMaxLevel: 3,
+      coverpage: true,
+      coverpage: [
+        '/'
+      ],
+      search: 'auto',
+      // complete configuration parameters
+      search: {       
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [
+          '/'
+        ], // or 'auto'
+
+        // Localization
+        placeholder: {
+          '/': 'Search',
+        },
+
+        noData: 'No Results!',
+
+        // Headline depth, 1 - 6
+        depth: 2,
+
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+        // To avoid search index collision
+        // between multiple websites under the same domain
+        namespace: 'website-1',
+      }
     }
   </script>
+  <script src="/scripts/docsify.min.js"></script>
+  <script src="/scripts/search.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
