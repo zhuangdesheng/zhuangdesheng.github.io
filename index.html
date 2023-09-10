@@ -15,7 +15,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"> -->
+  <link rel="stylesheet" href="/css/vue.css">
 </head>
 <body>
   <div id="app"></div>
@@ -28,39 +30,40 @@
       loadNavbar: true,
       loadSidebar: false,
       subMaxLevel: 3,
-      coverpage: true,
+      coverpage: false,
       coverpage: [
         '/'
       ],
-      search: 'auto',
-      // complete configuration parameters
-      search: {       
-        maxAge: 86400000, // Expiration time, the default one day
-        paths: [
-          '/'
-        ], // or 'auto'
+      // search: 'auto',
+      // // complete configuration parameters
+      // search: {       
+      //   maxAge: 86400000, // Expiration time, the default one day
+      //   paths: [
+      //     '/'
+      //   ], // or 'auto'
 
-        // Localization
-        placeholder: {
-          '/': 'Search',
-        },
+      //   // Localization
+      //   placeholder: {
+      //     '/': 'Search',
+      //   },
 
-        noData: 'No Results!',
+      //   noData: 'No Results!',
 
-        // Headline depth, 1 - 6
-        depth: 2,
+      //   // Headline depth, 1 - 6
+      //   depth: 2,
 
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      //   hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 
-        // To avoid search index collision
-        // between multiple websites under the same domain
-        namespace: 'website-1',
-      }
+      //   // To avoid search index collision
+      //   // between multiple websites under the same domain
+      //   namespace: 'website-1',
+      // }
     }
   </script>
   <script src="/scripts/docsify.min.js"></script>
-  <script src="/scripts/search.min.js"></script>
+  <!-- <script src="/scripts/search.min.js"></script> -->
+  <script src="/scripts/ga.min.js"></script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
 </body>
 </html>
