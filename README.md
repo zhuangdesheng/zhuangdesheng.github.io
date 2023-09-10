@@ -30,6 +30,8 @@
 
 ## 一点贡献
 
+【2023】华为制造军团首批解决方案专家
+
 【2021】[《汽车企业数字化转型：认知与实现》](http://m.china-pub.com/and2/tbookinfo_more.aspx?id=8084601)
 
 【2020】 [《汽车行业高性能计算平台应用研究》](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=11479816&siteId=14&contentType=literature)
@@ -80,3 +82,5 @@
 ## 做点小菜
 
 [【下厨房】](https://m.xiachufang.com/cook/128032279/)
+
+
