@@ -30,38 +30,56 @@
       loadNavbar: true,
       loadSidebar: false,
       subMaxLevel: 3,
-      coverpage: false,
+      coverpage: true,
       coverpage: [
-        '/'
+        '/',
+        '/use-software-like-a-pro/'
       ],
+
       // search: 'auto',
-      // // complete configuration parameters
-      // search: {       
-      //   maxAge: 86400000, // Expiration time, the default one day
-      //   paths: [
-      //     '/'
-      //   ], // or 'auto'
 
-      //   // Localization
-      //   placeholder: {
-      //     '/': 'Search',
-      //   },
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [
+        '/',
+        '/use-software-like-a-pro/',
+        ], // or 'auto'
 
-      //   noData: 'No Results!',
+        // Localization
+        placeholder: {
+          '/': 'Search',
+        },
 
-      //   // Headline depth, 1 - 6
-      //   depth: 2,
+        noData: 'No Results!',
 
-      //   hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        // Headline depth, 1 - 6
+        depth: 4,
 
-      //   // To avoid search index collision
-      //   // between multiple websites under the same domain
-      //   namespace: 'website-1',
-      // }
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+        // To avoid search index collision
+        // between multiple websites under the same domain
+        // namespace: 'website-1',
+
+        // // Use different indexes for path prefixes (namespaces).
+        // // NOTE: Only works in 'auto' mode.
+        // //
+        // // When initialiazing an index, we look for the first path from the sidebar.
+        // // If it matches the prefix from the list, we switch to the corresponding index.
+        // pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+
+        // // You can provide a regexp to match prefixes. In this case,
+        // // the matching substring will be used to identify the index
+        // pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
+      },
+
     }
   </script>
   <script src="/scripts/docsify.min.js"></script>
-  <!-- <script src="/scripts/search.min.js"></script> -->
+  <script src="/scripts/search.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> -->
   <script src="/scripts/ga.min.js"></script>
   <!-- Docsify v4 -->
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->

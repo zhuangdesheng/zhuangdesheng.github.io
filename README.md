@@ -20,7 +20,7 @@
 - 👨‍🎓NetPower Adminitration Team 成员
 - 👨‍🎓BSG subgroup(BiTUNiON subgroup)
 - 👨‍🎓"拖拉机使用与维修"专业（D52）😂
-- ☕︎善用佳软
+- ☕︎[善用佳软](/use-software-like-a-pro/)
 - ☕︎终身学习者
 - ☕︎罗辑思维（得到）二期天使投资人
 - ☕︎阳台陶渊明
