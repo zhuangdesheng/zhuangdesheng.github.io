@@ -14,6 +14,10 @@
 
 
 
+[TOC]
+
+
+
 ## 快速搜索
 
 
@@ -238,4 +242,52 @@ typora文档直接提供了这个软件的介绍，可以参考这里：https://
 
 
 [工具的用法戳这里...](https://elmagnifico.tech/2018/08/14/MPic/)
+
+
+
+## rss阅读器 - Irreader
+
+给自己构建一个深度阅读的环境，自动在指定信息源获得信息，然后进入下一步，变成Action。
+
+这是一个信息源的收集器，你在这里**本地化地**管理你的信息源，而不是在线。这样不管怎么切换，你的信息源就是你的信息源。
+
+当然，充会员可以无限订阅源。
+
+
+
+## 非主流聊天室 - Discord
+
+很多年轻一代的APP都用这个做BBS，其实也未尝不可，无非是一种新的信息组成形式。
+
+
+
+## AI Galary
+
+### KALOS Art Libery 
+
+一个MidJourney的抄 prompt 的地方。
+
+https://lib.kalos.art/
+
+
+
+### Midjourney
+
+这个大家都知道。
+
+
+
+## 探索ing
+
+### 好玩的Web3博客 - xlog
+
+https://xlog.app/about
+
+知道这个是因为看到xlog的作者给宠物猫的AirTag上打印了个[域名](https://suannai.cat/)，记录猫咪的各种，真是宠猫宠到了天上。
+
+![图像](https://pbs.twimg.com/media/F6E2SYEaEAAb9rB?format=jpg&name=4096x4096)
+
+后来才知道，xlog就是rss3大佬DIYgod搞的新项目。
+
+关于这个产品，可以听听作者自己的首次[播客](https://podcasts.apple.com/cn/podcast/no-28-%E5%92%8Cxlog-app%E7%9A%84%E4%BD%9C%E8%80%85diygod%E8%81%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%92%8C%E5%8D%9A%E5%AE%A2%E5%B9%B3%E5%8F%B0-%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/id1586927144?i=1000619271886)。你可以自己host，但是，数据在链上。当然，访问链上数据很慢，所以有一个数据库，平时都是从数据库里面取。另外，有个媚点功能，ChatGPT自动总结内容，节约时间。
 
