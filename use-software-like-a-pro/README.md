@@ -38,9 +38,19 @@
 
 
 
+### 鼠标快捷键 - Quicker
 
+https://getquicker.net/
 
+这个工具可以让你的鼠标像键盘一样灵活。对于经常高强度使用Windows的同学，尝试去使用和定制它，你会感谢你自己。
 
+这个软件最厉害的就是鼠标中间呼出菜单。有了菜单，就像呼出了一个工具格子架，每一个格子就是一个马赛克，这个马赛克可以定义，而且像应用商店一样，可以用别人定义好的。
+
+我最喜欢的是截图OCR，随意看到个网址，直接中键呼出，识别出文字，再中键呼出，运行文字，就可以直接打开默认浏览器访问这个网址，连键盘都不需要使用。
+
+<video width="960" height="540" controls>
+<source src="https://files.getquicker.net/_sitefiles/media/3-1%E6%88%AA%E5%9B%BEOCR1.mp4" type="video/mp4">
+</video>
 
 ## 截屏软件
 
