@@ -3,7 +3,7 @@
 
 —— 孤蓬万里征，我是庄德升，一个**会看英文Guide和Coding的汽车行业数字化解决方案专家**。
 
-—— 快乐学习，快乐生活。读书，健身，投资，帮朋友，陪家人...
+—— 快乐学习，快乐生活，读书，健身，投资，帮朋友，陪家人...
 
 
 
@@ -23,7 +23,7 @@
 - 👨‍🎓小镇做题家
 - ☕︎[善用佳软](/use-software-like-a-pro/)
 - ☕︎终身学习者
-- ☕︎罗辑思维（得到）二期天使投资人
+- ☕︎罗辑思维（得到）二期天使赞助人
 - ☕︎阳台陶渊明
 - ☕︎三脚猫程序员
 
@@ -31,15 +31,21 @@
 
 ## 一点贡献
 
-【2023】华为制造军团首批解决方案专家
+【2022】华为制造军团首批解决方案专家
 
-【2021】[《汽车企业数字化转型：认知与实现》](http://m.china-pub.com/and2/tbookinfo_more.aspx?id=8084601)
+【2021】参与[《汽车企业数字化转型：认知与实现》](http://m.china-pub.com/and2/tbookinfo_more.aspx?id=8084601)编写与研讨
 
 【2020】 [《汽车行业高性能计算平台应用研究》](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=11479816&siteId=14&contentType=literature)
+
+【2017】[高性能计算环境运维与优化论坛分享](http://www.iapcm.ac.cn/src/Second.html)
 
 【2015】 [国资委、工信部 - 第二十一届全国企业管理现代化创新成果奖 -《大型制造企业面向全球协同的数字化开发管理》](http://www.cec1979.org.cn/download/26596_1_1421303781.pdf)
 
 【2015】 [中国汽车工业科学技术进步奖](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E8%BF%9B%E6%AD%A5%E5%A5%96)
+
+【2013】[《实用PDM图文档管理平台的设计》](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7xAZywCwkEEIhoJpehO--9vmSrHb43kOdSQxfRZuY3t1e1QdSrgVOcVR4toBzy6FX&uniplatform=NZKPT)
+
+【2012】[《火炮产品结构管理模块开发的关键技术研究》](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7fm4X_1ttJAlR59jLLJneUtQNR_d6FE4AMPrNx-TmDaXbAaN9LAXssZvrzOIvvk__&uniplatform=NZKPT)
 
 
 
