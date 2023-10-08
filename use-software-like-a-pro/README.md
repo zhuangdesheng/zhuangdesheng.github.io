@@ -68,6 +68,33 @@ https://getquicker.net/
 
 
 
+## 查文件夹大小
+
+最早用过的软件是FolderSizes，不过后来收费了。找了一个开源平替，也很方便。
+
+这个软件主要是用在电脑空间不足的情况下，快速定位超大文件，然后删掉或者备份用的。
+
+### WinDirStat
+
+官网：https://windirstat.net/
+
+下载：https://www.fosshub.com/WinDirStat.html
+
+
+
+## 查进程和广告弹窗
+
+### ProcessExplorer
+
+广告弹窗是个很烦的东西，要找到真正的讨厌鬼，就要定位这个进程。但是打开任务管理器往往找不到。这个软件可以通过显示的窗口，定位到进程名称，从而，你就可以顺藤摸瓜到那个具体的文件，看看是哪个软件“干的好事”。
+
+这个工具是微软官方家出的，可以放心用：https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+
+![image-20231008173802064](README/image-20231008173802064.png?raw=true)
+
+上面箭头指的那个类似靶心![49899240](README/49899240.png)的按钮功能就是通过窗口定位进程的功能。
+
+
 
 
 ## 手工文本转录（听写工具）
