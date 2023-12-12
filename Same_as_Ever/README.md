@@ -4,11 +4,11 @@ Morgan Housel
 
 
 
-![694ae289-c1de-4761-92cf-3022d54a50cc](Same as Ever/694ae289-c1de-4761-92cf-3022d54a50cc.jpg)
+![694ae289-c1de-4761-92cf-3022d54a50cc](images/694ae289-c1de-4761-92cf-3022d54a50cc.jpg)
 
 
 
-![b70a5c30-1674-4024-b483-de17b1c60748](Same as Ever/b70a5c30-1674-4024-b483-de17b1c60748.jpg)
+![b70a5c30-1674-4024-b483-de17b1c60748](images/b70a5c30-1674-4024-b483-de17b1c60748.jpg)
 
 
 
@@ -2784,7 +2784,7 @@ A good summary of investing history is that stocks pay a fortune in the long run
 Here’s how often the U.S. stock market has generated a positive return based on how long you held stocks for.
 以下是美国股市根据您持有股票的时间长短而产生正收益的频率。
 
-![f0a4e6fb-a2a9-4917-8eee-6707c085c511](Same as Ever/f0a4e6fb-a2a9-4917-8eee-6707c085c511.jpg)
+![f0a4e6fb-a2a9-4917-8eee-6707c085c511](images/f0a4e6fb-a2a9-4917-8eee-6707c085c511.jpg)
 
 One way to think about this chart is that there’s a “most convenient” investing time horizon—probably somewhere around ten years or more. That’s the period in which markets nearly always reward your patience. The more your time horizon compresses, the more you rely on luck and tempt ruin.
 对这张图的一种理解是，有一个 "最方便 "的投资时间跨度--大概在十年左右或更长。在这段时间内，市场几乎总是会回报你的耐心。你的时间跨度压缩得越多，你就越依赖运气，也就越容易失败。
