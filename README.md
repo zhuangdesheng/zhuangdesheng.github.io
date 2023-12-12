@@ -88,9 +88,17 @@
 
 
 
+## 翻翻书
+
+【2023】[《Same as Ever》](/Same_as_Ever/) Morgan Housel
+
+
+
 ## 做点小菜
 
 [【下厨房】](https://m.xiachufang.com/cook/128032279/)
+
+
 
 
 ## 拍点照片
