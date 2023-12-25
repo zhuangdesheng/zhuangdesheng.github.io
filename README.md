@@ -35,7 +35,7 @@
 
 【2022】华为制造军团首批解决方案专家
 
-【2021】参与[《汽车企业数字化转型：认知与实现》](http://m.china-pub.com/and2/tbookinfo_more.aspx?id=8084601)编写与研讨
+【2021】参与[《汽车企业数字化转型：认知与实现》](https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAO9ZwYgXGPxBMVzqlRNk5j6yEnAa9E576Q)编写与研讨
 
 【2020】 [《汽车行业高性能计算平台应用研究》](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=11479816&siteId=14&contentType=literature)
 
