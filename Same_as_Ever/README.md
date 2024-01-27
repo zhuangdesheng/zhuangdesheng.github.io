@@ -10,82 +10,12 @@ Morgan Housel
 
 ![b70a5c30-1674-4024-b483-de17b1c60748](images/b70a5c30-1674-4024-b483-de17b1c60748.jpg)
 
-
-
-
-
-
-
-PORTFOLIO / PENGUIN
-投资组合/企鹅
-
-An imprint of Penguin Random House LLC
-企鹅兰登书屋有限责任公司的一个品牌
-
-[penguinrandomhouse.com
-企鹅兰登书屋网站](http://www.penguinrandomhouse.com/)
-
-
-
-Copyright © 2023 by Morgan Housel
-版权所有 © 2023 Morgan Housel
-
-Penguin Random House supports copyright. Copyright fuels creativity, encourages diverse voices, promotes free speech, and creates a vibrant culture. Thank you for buying an authorized edition of this book and for complying with copyright laws by not reproducing, scanning, or distributing any part of it in any form without permission. You are supporting writers and allowing Penguin Random House to continue to publish books for every reader.
-企鹅兰登书屋支持版权。版权推动创造力，鼓励多元声音，促进言论自由，创造出充满活力的文化。感谢您购买本书的授权版本，并遵守版权法，未经许可不复制、扫描或以任何形式分发其中任何部分。您的支持为作家提供了支持，并使企鹅兰登书屋能够继续为每位读者出版图书。
-
-Library of Congress Cataloging-in-Publication Data
-国会图书馆编目出版数据
-
-Names: Housel, Morgan, author.
-姓名：豪斯尔，摩根，作者。
-
-Title: Same as ever : a guide to what never changes / Morgan Housel.
-一如既往：永恒不变的指南 / 摩根·豪斯尔。
-
-Description: [New York, NY] : Portfolio/Penguin, [2023] | Includes bibliographical references. |
-描述：[纽约，纽约]：Portfolio/Penguin，[2023年] | 包含参考文献。
-
-Identifiers: LCCN 2023010800 (print) | LCCN 2023010801 (ebook) |
-标识符：LCCN 2023010800（印刷版）| LCCN 2023010801（电子书）|
-
-ISBN 9780593332702 (hardcover) | ISBN 9780593716229 (international edition) | ISBN 9780593332719 (ebook)
-ISBN 9780593332702（精装版）| ISBN 9780593716229（国际版）| ISBN 9780593332719（电子书）
-
-Subjects: LCSH: Resilience (Personality trait) | Stability. | Change.
-主题：LCSH：韧性（个性特质）| 稳定性。| 变化。
-
-Classification: LCC BF698.35.R47 H656 2023 (print) | LCC BF698.35.R47 (ebook) | DDC 155.2/4—dc23/eng/20230624
-分类：LCC BF698.35.R47 H656 2023（印刷版）| LCC BF698.35.R47（电子书）| DDC 155.2/4—dc23/eng/20230624
-
-LC record available at https://lccn.loc.gov/2023010800
-LC记录可在https://lccn.loc.gov/2023010800找到。
-
-LC ebook record available at https://lccn.loc.gov/2023010801
-LC电子书记录可在https://lccn.loc.gov/2023010801找到。
-
-Cover design: Christopher Parker
-封面设计：克里斯托弗·帕克
-
-Cover image: Sumkinn / iStock / Getty Images Plus
-封面图片：Sumkinn / iStock / Getty Images Plus
-
-*Book design by Jessica Shatan Heslin/Studio Shatan, Inc., adapted for ebook by Estelle Malmed
-由Jessica Shatan Heslin/Studio Shatan, Inc.设计，由Estelle Malmed适配电子书。*
-
-pid_prh_6.1_145346964_c0_r0
-
-
-
-
-
-
+---
 
 *For the reasonable* *optimists**
 对于理性的乐观主义者*
 
-
-
-
+---
 
 Our life is indeed the same as it ever was. . . . The same physiological and psychological processes that have been man’s for hundreds of thousands of years still endure.
 我们的生活确实与以往一样……数十万年来一直存在的生理和心理过程仍然存在。
@@ -117,165 +47,165 @@ The dead outnumber the living . . . fourteen to one, and we ignore the accumulat
 —Niall Ferguson
 —尼尔·弗格森
 
-
+---
 
 # 23 Little Stories about Things That Never Change 23个关于永恒不变的小故事
 
-[Introduction
-介绍]()
+📘 Introduction
+📘 介绍
 
-[The Little Laws of Life
-生活的小法则]()
+🌱 The Little Laws of Life
+🌱 生活的小法则
 
-[Hanging by a Thread
-岌岌可危]()
+🕸 Hanging by a Thread
+🕸 岌岌可危
 
-[If you know where we’ve been, you realize we have no idea where we’re going.
-如果你知道我们曾经去过哪里，你就会意识到我们对未来一无所知。]()
+🧭 If you know where we’ve been, you realize we have no idea where we’re going.
+🧭 如果你知道我们曾经去过哪里，你就会意识到我们对未来一无所知。
 
-[Risk Is What You Don’t See
-风险就是你看不到的东西]()
+👁 Risk Is What You Don’t See
+👁 风险就是你看不到的东西
 
-[We are very good at predicting the future, except for the surprises—which tend to be all that matter.
-我们非常擅长预测未来，除了那些意外情况——而这些往往是最重要的。]()
+🔮 We are very good at predicting the future, except for the surprises—which tend to be all that matter.
+🔮 我们非常擅长预测未来，除了那些意外情况——而这些往往是最重要的。
 
-[Expectations and Reality
-期望与现实]()
+🤔 Expectations and Reality
+🤔 期望与现实
 
-[The first rule of happiness is low expectations.
-幸福的第一条规则是降低期望。]()
+👇 The first rule of happiness is low expectations.
+👇 幸福的第一条规则是降低期望。
 
-[Wild Minds
-狂野的思维]()
+🌪 Wild Minds
+🌪 狂野的思维
 
-[People who think about the world in unique ways you like also think about the world in unique ways you won’t like.
-思考世界独特方式的人，你喜欢的方式也是你不喜欢的方式。]()
+🧠 People who think about the world in unique ways you like also think about the world in unique ways you won’t like.
+🧠 思考世界独特方式的人，你喜欢的方式也是你不喜欢的方式。
 
-[Wild Numbers
-狂野数字]()
+🎲 Wild Numbers
+🎲 狂野数字
 
-[People don’t want accuracy. They want certainty.
-人们不想要准确性，他们想要确定性。]()
+🛡 People don’t want accuracy. They want certainty.
+🛡 人们不想要准确性，他们想要确定性。
 
-[Best Story Wins
-最好的故事获胜]()
+🏆 Best Story Wins
+🏆 最好的故事获胜
 
-[Stories are always more powerful than statistics.
-故事总是比统计数据更有力量。]()
+📚 Stories are always more powerful than statistics.
+📚 故事总是比统计数据更有力量。
 
-[Does Not Compute
-无法计算]()
+❌ Does Not Compute
+❌ 无法计算
 
-[The world is driven by forces that cannot be measured.
-世界受到无法衡量的力量驱动。]()
+🌀 The world is driven by forces that cannot be measured.
+🌀 世界受到无法衡量的力量驱动。
 
-[Calm Plants the Seeds of Crazy
-平静种下疯狂的种子]()
+🧘 Calm Plants the Seeds of Crazy
+🧘 平静种下疯狂的种子
 
-[Crazy doesn’t mean broken. Crazy is normal; *beyond the point of crazy* is normal.
-疯狂并不意味着破碎。疯狂是正常的；超越疯狂的地方才是正常的。]()
+🤪 Crazy doesn’t mean broken. Crazy is normal; beyond the point of crazy is normal.
+🤪 疯狂并不意味着破碎。疯狂是正常的；超越疯狂的地方才是正常的。
 
-[Too Much, Too Soon, Too Fast
-太多，太快，太早]()
+🚀 Too Much, Too Soon, Too Fast
+🚀 太多，太快，太早
 
-[A good idea on steroids quickly becomes a terrible idea.
-一个在类固醇作用下的好主意很快变成了一个糟糕的主意。]()
+💥 A good idea on steroids quickly becomes a terrible idea.
+💥 一个在类固醇作用下的好主意很快变成了一个糟糕的主意。
 
-[When the Magic Happens
-当魔法发生时]()
+✨ When the Magic Happens
+✨ 当魔法发生时
 
-[Stress focuses your attention in ways that good times can’t.
-压力会以一种好时光无法做到的方式集中你的注意力。]()
+🧐 Stress focuses your attention in ways that good times can’t.
+🧐 压力会以一种好时光无法做到的方式集中你的注意力。
 
-[Overnight Tragedies and Long-Term Miracles
-一夜之间的悲剧和长期的奇迹]()
+🌌 Overnight Tragedies and Long-Term Miracles
+🌌 一夜之间的悲剧和长期的奇迹
 
-[Good news comes from compounding, which always takes time, but bad news comes from a loss in confidence or a catastrophic error that can occur in a blink of an eye.
-好消息来自于积累，这通常需要时间，但坏消息来自于信心的丧失或一瞬间可能发生的灾难性错误。]()
+🍀 Good news comes from compounding, which always takes time, but bad news comes from a loss in confidence or a catastrophic error that can occur in a blink of an eye.
+🍀 好消息来自于积累，这通常需要时间，但坏消息来自于信心的丧失或一瞬间可能发生的灾难性错误。
 
-[Tiny and Magnificent
-微小而壮丽]()
+🔬 Tiny and Magnificent
+🔬 微小而壮丽
 
-[When little things compound into extraordinary things.
-当小事变成了非凡的事情。]()
+🌺 When little things compound into extraordinary things.
+🌺 当小事变成了非凡的事情。
 
-[Elation and Despair
-喜悦与绝望]()
+😄 Elation and Despair
+😢 喜悦与绝望
 
-[Progress requires optimism and pessimism to coexist.
-进步需要乐观和悲观共存。]()
+⚖️ Progress requires optimism and pessimism to coexist.
+⚖️ 进步需要乐观和悲观共存。
 
-[Casualties of Perfection
-完美的牺牲品]()
+👌 Casualties of Perfection
+👌 完美的牺牲品
 
-[There is a huge advantage to being a little imperfect.
-有一种巨大的优势在于稍微有些不完美。]()
+🌟 There is a huge advantage to being a little imperfect.
+🌟 有一种巨大的优势在于稍微有些不完美。
 
-[It’s Supposed to Be Hard
-这应该是困难的]()
+🛠 It’s Supposed to Be Hard
+🛠 这应该是困难的
 
-[Everything worth pursuing comes with a little pain. The trick is not minding that it hurts.
-追求一切有价值的事物都伴随着一些痛苦。关键是不介意它会伤害。]()
+💡 Everything worth pursuing comes with a little pain. The trick is not minding that it hurts.
+💡 追求一切有价值的事物都伴随着一些痛苦。关键是不介意它会伤害。
 
-[Keep Running
-坚持奔跑]()
+🏃‍♂️ Keep Running
+🏃‍♂️ 坚持奔跑
 
-[Most competitive advantages eventually die.
-大多数竞争优势最终都会消失。]()
+🍃 Most competitive advantages eventually die.
+🍃 大多数竞争优势最终都会消失。
 
-[The Wonders of the Future
-未来的奇迹]()
+🔮 The Wonders of the Future
+🔮 未来的奇迹
 
-[It always feels like we’re falling behind, and it’s easy to discount the potential of new technology.
-我们总是感觉落后，很容易低估新技术的潜力。]()
+🚀 It always feels like we’re falling behind, and it’s easy to discount the potential of new technology.
+🚀 我们总是感觉落后，很容易低估新技术的潜力。
 
-[Harder Than It Looks and Not as Fun as It Seems
-比看起来更难，不如看起来的那么有趣]()
+🌟 Harder Than It Looks and Not as Fun as It Seems
+🌟 比看起来更难，不如看起来的那么有趣
 
-[“The grass is always greener on the side that’s fertilized with bullshit.”
-草在施了牛粪的那一边总是更绿。]()
+💬 “The grass is always greener on the side that’s fertilized with bullshit.”
+💬 草在施了牛粪的那一边总是更绿。
 
-[Incentives: The Most Powerful Force in the World
-激励：世界上最强大的力量]()
+💪 Incentives: The Most Powerful Force in the World
+💪 激励：世界上最强大的力量
 
-[When the incentives are crazy, the behavior is crazy. People can be led to justify and defend nearly anything.
-当激励变得疯狂时，行为也会变得疯狂。人们会被引导去为几乎任何事情辩解和辩护。]()
+🌀 When the incentives are crazy, the behavior is crazy. People can be led to justify and defend nearly anything.
+🌀 当激励变得疯狂时，行为也会变得疯狂。人们会被引导去为几乎任何事情辩解和辩护。
 
-[Now You Get It
-现在你明白了]()
+🤔 Now You Get It
+🤔 现在你明白了
 
-[Nothing is more persuasive than what you’ve experienced firsthand.
-没有什么比亲身经历更具有说服力。]()
+🎯 Nothing is more persuasive than what you’ve experienced firsthand.
+🎯 没有什么比亲身经历更具有说服力。
 
-[Time Horizons
-时间视角]()
+⏳ Time Horizons
+⏳ 时间视角
 
-[Saying “I’m in it for the long run” is a bit like standing at the base of Mount Everest, pointing to the top, and saying, “That’s where I’m heading.” Well, that’s nice. Now comes the test.
-说“我会坚持到底”有点像站在珠穆朗玛峰的脚下，指着山顶说：“那就是我要去的地方。”好吧，那很好。现在是考验的时候了。]()
+🌄 Saying “I’m in it for the long run” is a bit like standing at the base of Mount Everest, pointing to the top, and saying, “That’s where I’m heading.” Well, that’s nice. Now comes the test.
+🌄 说“我会坚持到底”有点像站在珠穆朗玛峰的脚下，指着山顶说：“那就是我要去的地方。”好吧，那很好。现在是考验的时候了。
 
-[Trying Too Hard
-努力过度]()
+💪 Trying Too Hard
+💪 努力过度
 
-[There are no points awarded for difficulty.
-没有给予困难的奖励。]()
+🚫 There are no points awarded for difficulty.
+🚫 没有给予困难的奖励。
 
-[Wounds Heal, Scars Last
-伤口愈合，疤痕永存]()
+❤️‍🩹 Wounds Heal, Scars Last
+❤️‍🩹 伤口愈合，疤痕永存
 
-[What have you experienced that I haven’t that makes you believe what you do? And would I think about the world like you do if I experienced what you have?
-你经历了什么我没有经历过的事情，让你相信你所相信的？如果我经历了你经历过的事情，我会像你一样思考世界吗？]()
+🤝 What have you experienced that I haven’t that makes you believe what you do? And would I think about the world like you do if I experienced what you have?
+🤝 你经历了什么我没有经历过的事情，让你相信你所相信的？如果我经历了你经历过的事情，我会像你一样思考世界吗？
 
-[Questions
-问题]()
+❓ Questions
+❓ 问题
 
-[Acknowledgments
-致谢]()
+🙏 Acknowledgments
+🙏 致谢
 
-[Notes
-笔记]()
+📝 Notes
+📝 笔记
 
 
-
+---
 
 
 # Introduction 介绍
@@ -5722,1201 +5652,1017 @@ And of course, my wife, Gretchen, and my parents, Ben and Nancy—whose support 
 1. **“Our life is indeed the same”****:** Carl Jung, *Collected Works of C. G. Jung, vol. 7: Two Essays in Analytical Psychology* (Princeton, NJ, Princeton University Press, 1972).
    我们的生活确实是一样的。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **“The wise in all ages”****:** Arthur Schopenhauer, *The Wisdom of Life, Being the First Part of Arthur Schopenhauer’s Aphorismen Zur Lebensweisheit* (London: S. Sonnenschein & Co., 1897).
    “智者在各个时代”：亚瑟·叔本华，《生活的智慧》，为亚瑟·叔本华的《生活智慧格言集》第一部分（伦敦：S. Sonnenschein & Co.，1897年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **“I’ve learned an important trick”****:** Tim Ferriss, *Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers* (Boston: Houghton Mifflin Harcourt, 2017).
    我学到了一个重要的窍门：蒂姆·费里斯，《巨人的工具：亿万富翁、偶像和世界级表演者的策略、日常和习惯》（波士顿：霍顿·米夫林·哈考特出版社，2017年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **“The dead outnumber the living”****:** Niall Ferguson, *Civilization: The West and the Rest* (New York: Penguins Books, 2012).
    “死者超过活着的人数”：尼尔·弗格森，《文明：西方与其他地区》（纽约：企鹅图书，2012年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
+   
 
 ## Introduction 介绍
 
 1. **Amazon founder Jeff Bezos****:** Jeff Hayden, “20 Years Ago, Jeff Bezos Said This 1 Thing Separates People Who Achieve Lasting Success From Those Who Don’t,” *Inc*., November 6, 2017, [www.inc.com/jeff-haden/20-years-ago-jeff-bezos-said-this-1-thing-separates-people-who-achieve-lasting-success-from-those-who-dont.html](http://www.inc.com/jeff-haden/20-years-ago-jeff-bezos-said-this-1-thing-separates-people-who-achieve-lasting-success-from-those-who-dont.html).
    亚马逊创始人杰夫·贝索斯：杰夫·海登，“20年前，杰夫·贝索斯说过这一点区分那些取得持久成功和那些没有的人”，Inc.，2017年11月6日，www.inc.com/jeff-haden/20-years-ago-jeff-bezos-said-this-1-thing-separates-people-who-achieve-lasting-success-from-those-who-dont.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **Entrepreneur and investor Naval Ravikant****:** Eric Jorgenson, *The Almanack of Naval Ravikant: A Guide to Wealth and Happiness* (N.p.: Magrathea, 2020), 82.
    企业家和投资者纳瓦尔·拉维坎特：埃里克·约根森，《纳瓦尔·拉维坎特年鉴：财富与幸福指南》（未出版地：麦格拉西亚，2020年），82页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
+   
 
 ## Hanging by a Thread 岌岌可危
 
 1. **Author Tim Urban once wrote****:** Tim Urban, @waitbutwhy, Twitter post, April 21, 2021, 1:13 p.m., [twitter.com/waitbutwhy/status/1384963403475791872?s=20&t=4i2ekW6c1cwAp6S1qB6YUA](http://twitter.com/waitbutwhy/status/1384963403475791872?s=20&t=4i2ekW6c1cwAp6S1qB6YUA).
    作者Tim Urban曾经写道：Tim Urban，@waitbutwhy，推特帖子，2021年4月21日，下午1:13，twitter.com/waitbutwhy/status/1384963403475791872?s=20&t=4i2ekW6c1cwAp6S1qB6YUA。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **Historian David McCullough****:** *Charlie Rose*, season 14, episode 186, “David McCullough,” May 30, 2005, PBS, [charlierose.com/videos/18134](http://charlierose.com/videos/18134).
    历史学家大卫·麦卡洛: 查理·罗斯，第14季，第186集，“大卫·麦卡洛”，2005年5月30日，PBS，charlierose.com/videos/18134。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **Compelled to save money****:** Erik Larson, *Dead Wake: The Last Crossing of the Lusitania* (New York: Crown, 2015), 117, 326.
    被迫节省金钱：埃里克·拉森，《死亡的觉醒：卢西塔尼亚的最后航行》（纽约：皇冠出版社，2015年），117页，326页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Zangara fired five shots****:** Joseph T. McCann, *Terrorism on American Soil* (Boulder, CO: Sentient Publications, 2006), 69–70.
    Zangara开了五枪：Joseph T. McCann，《美国土地上的恐怖主义》（科罗拉多州博尔德：Sentient Publications，2006年），69-70页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **The target, Franklin Delano Roosevelt****:** “This Day in History: February 15, 1933: FDR Escapes Assassination Attempt in Miami,” History.com, November 16, 2009, updated February 11, 2021, [history.com/this-day-in-history/fdr-escapes-assassination-in-miami](http://history.com/this-day-in-history/fdr-escapes-assassination-in-miami).
    目标：富兰克林·德拉诺·罗斯福：“历史上的今天：1933年2月15日：FDR在迈阿密逃过暗杀企图”，History.com，2009年11月16日更新，2021年2月11日更新，history.com/this-day-in-history/fdr-escapes-assassination-in-miami。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
+   
 
 ## Risk Is What You Don’t See 风险就是你看不见的东西
 
 1. **As Prather descended****:** Douglas Brinkley, *American Moonshot* (New York: Harper, 2019), 237.
    当普拉瑟下降时：道格拉斯·布林克利，《美国登月计划》（纽约：哈珀，2019年），237页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **While connecting himself****:** Jan Herman, “Stratolab: The Navy’s High-Altitude Balloon Research,” lecture, Naval Medical Research Institute, Bethesda, MD, 1995, [archive.org/details/StratolabTheNavysHighAltitudeBalloonResearch](http://archive.org/details/StratolabTheNavysHighAltitudeBalloonResearch).
    在连接自己时：Jan Herman，“Stratolab：海军的高空气球研究”，讲座，海军医学研究所，马里兰州贝塞斯达，1995年，archive.org/details/StratolabTheNavysHighAltitudeBalloonResearch。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **As financial advisor Carl Richards says****:** Carl Richards, (@behaviorgap), Twitter post, March 10, 2020, 8:19 a.m., [twitter.com/behaviorgap/status/1237352317592076288](http://twitter.com/behaviorgap/status/1237352317592076288).
    正如财务顾问卡尔·理查兹所说：卡尔·理查兹（@behaviorgap），推特帖子，2020年3月10日上午8:19，twitter.com/behaviorgap/status/1237352317592076288。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **In October 1929****:** “Fisher Sees Stocks Permanently High,” *New York Times*, October 16, 1929, [www.nytimes.com/1929/10/16/archives/fisher-sees-stocks-permanently-high-yale-economist-tells-purchasing.html](http://www.nytimes.com/1929/10/16/archives/fisher-sees-stocks-permanently-high-yale-economist-tells-purchasing.html).
    1929年10月：“费舍尔认为股票将永久高位”，《纽约时报》，1929年10月16日，www.nytimes.com/1929/10/16/archives/fisher-sees-stocks-permanently-high-yale-economist-tells-purchasing.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **I asked Robert Shiller****:** Author interview with Robert Shiller, 2012.
    我问了罗伯特·希勒：罗伯特·希勒的作者采访，2012年。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **the biggest problem of the United States****:** Frederick Lewis Allen, *Since Yesterday* (New York: Harper & Brothers, 1940), reproduced from Thurman W. Arnold, *The Folklore of Capitalism* (New Haven, CT: Yale University Press, 1937).
    美国最大的问题：弗雷德里克·刘易斯·艾伦，《昨日以来》（纽约：哈珀兄弟，1940年），摘自瑟曼·W·阿诺德，《资本主义的民间传说》（康涅狄格州纽黑文：耶鲁大学出版社，1937年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **“I’m thinking of all the historians”****:** Margaret MacMillan, *History’s People: Personalities and the Past* (CBC Massey Lectures) (Toronto: House of Anansi Press, 2015).
    “我在思考所有的历史学家”：玛格丽特·麦克米兰，《历史的人物：个性与过去》（CBC马塞讲座）（多伦多：安纳西出版社，2015年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **There’s a haunting video****:** “The Sonic Memorial—Remembering 9/11 with Host Paul Auster,” n.d., in *The Kitchen Sisters* (podcast), [kitchensisters.org/present/sonic-memorial/](http://kitchensisters.org/present/sonic-memorial/).
    有一个令人不安的视频：“声音纪念碑-与主持人保罗·奥斯特一起追忆9/11事件”，日期不详，收录于The Kitchen Sisters（播客）的网站kitchensisters.org/present/sonic-memorial/。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **“Invest in preparedness”****:** Nassim Nicholas Taleb, *Antifragile: Things That Gain from Disorder* (New York: Random House, 2014).
    “投资于准备工作”：纳西姆·尼古拉斯·塔勒布，《反脆弱：从混乱中获益的事物》（纽约：随机出版社，2014年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
+   
 
 ## Expectations and Reality 期望与现实
 
 1. **“The present and immediate future”****:** “Where Do We Go from Here?,” *Life*, January 5, 1953, 86, [books.google.com/books?id=QUIEAAAAMBAJ&q=astonishingly#v=snippet&q=astonishingly&f=false](http://books.google.com/books?id=QUIEAAAAMBAJ&q=astonishingly#v=snippet&q=astonishingly&f=false).
    “现在和即将到来的未来”：“我们从这里去哪里？”《生活》杂志，1953年1月5日，第86页，books.google.com/books?id=QUIEAAAAMBAJ&q=astonishingly#v=snippet&q=astonishingly&f=false。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **“10 straight years”****:** “What Have We Got Here,” *Life*, January 5, 1953, 47, [https://books.google.com/ks?id=QUIEAAAAMBAJ&q=astonishingly#v=onepage&q=straight%20years&f=false](https://books.google.com/ks?id=QUIEAAAAMBAJ&q=astonishingly#v=onepage&q=straight years&f=false).
    10年连续：《我们在这里得到了什么》，《生活》杂志，1953年1月5日，第47页，https://books.google.com/ks?id=QUIEAAAAMBAJ&q=astonishingly#v=onepage&q=straight%20years&f=false。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **George Friedman, a geopolitical forecaster****:** “The Crisis of the Middle Class and American Power,” RANE Worldview, December 31, 2013, [worldview.stratfor.com/article/crisis-middle-class-and-american-power](http://worldview.stratfor.com/article/crisis-middle-class-and-american-power).
    乔治·弗里德曼，地缘政治预测家：“中产阶级危机与美国的实力”，RANE Worldview，2013年12月31日，worldview.stratfor.com/article/crisis-middle-class-and-american-power.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Median family income adjusted for inflation****:** Russell Sage Foundation, Chartbook of Social Inequality, “Real Mean and Median Income, Families and Individuals, 1947–2012, and Households, 1967–2012,” n.d., [russellsage.org/sites/all/files/chartbook/Income%20and%20Earnings.pdf](http://russellsage.org/sites/all/files/chartbook/Income and Earnings.pdf).
    中位家庭收入（根据通胀调整）：罗素·塞奇基金会社会不平等图表手册，“1947年至2012年家庭和个人的实际平均和中位收入，以及1967年至2012年的家庭”，无日期，russellsage.org/sites/all/files/chartbook/Income%20and%20Earnings.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **$29,000 in 1955****:** Jessica Semega and Melissa Kollar, “Income in the United States: 2021,” U.S. Census Bureau, Report Number P60-276, September 13, 2022, [census.gov/library/publications/2022/demo/p60-276.html#:~:text=Real%20median%20household%20income%20was,and%20Table%20A%2D1](http://census.gov/library/publications/2022/demo/p60-276.html#:~:text=Real median household income was,and Table A-1)).
    1955年的收入为29,000美元：Jessica Semega和Melissa Kollar，“美国的收入：2021年”，美国人口普查局，报告编号P60-276，2022年9月13日，census.gov/library/publications/2022/demo/p60-276.html#:~:text=Real%20median%20household%20income%20was,and%20Table%20A%2D1)。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **Median hourly wages****:** Lawrence H. Officer and Samuel H. Williamson, “Annual Wages in the United States, 1774—Present,” MeasuringWorth, 2023, [measuringworth.com/datasets/uswage/result.php](http://measuringworth.com/datasets/uswage/result.php).
    中位数每小时工资：劳伦斯·H·奥夫瑟和塞缪尔·H·威廉姆森，《美国年工资，1774年至今》，MeasuringWorth，2023年，measuringworth.com/datasets/uswage/result.php。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **The homeownership rate****:** PK, “Historical Homeownership Rate in the United States, 1890–Present,” DQYDJ, n.d., [dqydj.com/historical-homeownership-rate-united-states](http://dqydj.com/historical-homeownership-rate-united-states).
    美国的住房拥有率：PK，“美国历史上的住房拥有率，1890年至今”，DQYDJ，无日期，dqydj.com/historical-homeownership-rate-united-states。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **An average home was a third smaller****:** Maria Cecilia P. Moura, Steven J. Smith, and David B. Belzer, “120 Years of U.S. Residential Housing Stock and Floor Space,” table 1, *PLoS One* 10, no. 8 (August 11, 2015): e0134135, [ncbi.nlm.nih.gov/pmc/articles/PMC4532357/table/pone.0134135.t001](http://ncbi.nlm.nih.gov/pmc/articles/PMC4532357/table/pone.0134135.t001).
    一个普通家庭的面积要小三分之一：Maria Cecilia P. Moura, Steven J. Smith, and David B. Belzer, “120 Years of U.S. Residential Housing Stock and Floor Space,” table 1, PLoS One 10, no. 8 (August 11, 2015): e0134135, ncbi.nlm.nih.gov/pmc/articles/PMC4532357/table/pone.0134135.t001.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **Food consumed 29 percent****:** U.S. Bureau of Labor Statistics, “100 Years of U.S. Consumer Spending,” Report 991, May 2006, [bls.gov/opub/100-years-of-u-s-consumer-spending.pdf](http://bls.gov/opub/100-years-of-u-s-consumer-spending.pdf), and “Consumer Expenditures—2021,” news release, September 8, 2022, [bls.gov/news.release/cesan.nr0.htm](http://bls.gov/news.release/cesan.nr0.htm).
    食品消费占比29％：美国劳工统计局，“美国消费者支出的100年”，报告991，2006年5月，bls.gov/opub/100-years-of-u-s-consumer-spending.pdf，以及“消费支出-2021年”，新闻发布，2022年9月8日，bls.gov/news.release/cesan.nr0.htm。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 10. **Workplace deaths were three times higher****:** Marian L. Tupy, “Workplace Fatalities Fell 95% in the 20th Century. Who Deserves the Credit?,” FEE Stories, September 16, 2018, [fee.org/articles/workplace-fatalities-fell-95-in-the-20th-century-who-deserves-the-credit](http://fee.org/articles/workplace-fatalities-fell-95-in-the-20th-century-who-deserves-the-credit).
     工作场所死亡人数增加了三倍：Marian L. Tupy，“20世纪工作场所死亡人数下降了95%。谁应该得到赞誉？”，FEE Stories，2018年9月16日，fee.org/articles/workplace-fatalities-fell-95-in-the-20th-century-who-deserves-the-credit。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 11. **But Ferencz said none of it****:** Barry Avrich, *Prosecuting Evil* (Los Angeles: Vertical Entertainment, 2018).
     但费伦茨没有说任何话：巴里·阿夫里奇，《控告邪恶》（洛杉矶：Vertical Entertainment，2018年）。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 12. *The New York Times* **interviewed Gary Kremen****:** Gary Rivlin, “In Silicon Valley, Millionaires Who Don’t Feel Rich,” *New York Times*, August 5, 2007, https://www.nytimes.com/2007/08/05/technology/05rich.html.
     《纽约时报》采访了加里·克雷门：加里·里夫林，“在硅谷，那些不觉得富有的百万富翁”，《纽约时报》，2007年8月5日，https://www.nytimes.com/2007/08/05/technology/05rich.html。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 13. **Actor Will Smith****:** Will Smith, *Will* (New York: Penguin Press, 2021), 105.
     演员威尔·史密斯：威尔·史密斯，《威尔·史密斯自传》（纽约：企鹅出版社，2021年），105页。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 14. **Tennis player Naomi Osaka****:** Steve Tignor, “Naomi Osaka Isn’t Enjoying Herself Even When She Wins—So You Can Understand Her Need for a Break from the Game,” *Tennis*, September 4, 2021, [tennis.com/news/articles/naomi-osaka-isn-t-enjoying-herself-even-when-she-wins-so-you-can-understand-her-](http://tennis.com/news/articles/naomi-osaka-isn-t-enjoying-herself-even-when-she-wins-so-you-can-understand-her-).
     网球选手大坂直美：史蒂夫·蒂格诺，《即使赢了她也不开心——所以你可以理解她对比赛的休息需求》，《网球》杂志，2021年9月4日，tennis.com/news/articles/naomi-osaka-isn-t-enjoying-herself-even-when-she-wins-so-you-can-understand-her-.
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 15. **“We should be less than candid”****:** David McCullough, *Truman* (New York: Touchstone, 1992).
     “我们应该不那么坦率。” 大卫·麦卡洛,《杜鲁门》(纽约: Touchstone, 1992)。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 16. **“You seem extremely happy”****:** Buffett Online, “2022 Daily Journal Annual Meeting,” February 16, 2022, YouTube video, [youtube.com/watch?v=22faKkazye4&ab_channel=BuffettOnline](http://youtube.com/watch?v=22faKkazye4&ab_channel=BuffettOnline).
     你似乎非常开心。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    
+    
 
 ## Wild Minds 狂野的思绪
 
 1. **He and two other runners****:** Cathal Dennehy, “Eliud Kipchoge: Inside the Camp, and the Mind, of the Greatest Marathon Runner of All Time,” *Irish Examiner*, October 29, 2021, [irishexaminer.com/sport/othersport/arid-40732662.html](http://irishexaminer.com/sport/othersport/arid-40732662.html).
    他和另外两名跑者：Cathal Dennehy，《Eliud Kipchoge: Inside the Camp, and the Mind, of the Greatest Marathon Runner of All Time》，爱尔兰检查员，2021年10月29日，irishexaminer.com/sport/othersport/arid-40732662.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **John Boyd was probably the greatest****:** Robert Coram, *Boyd: The Fighter Pilot Who Changed the Art of War* (New York: Back Bay Books, 2004), 58, 68, 130, 172, 450.
    约翰·博伊德可能是最伟大的人：罗伯特·科拉姆，《博伊德：改变战争艺术的战斗机飞行员》（纽约：后湾书籍，2004年），58页，68页，130页，172页，450页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **Boyd is known****:** Ronald Spector, “40-Second Man,” review of *Boyd: The Fighter Pilot Who Changed the Art of War*, *New York Times*, March 9, 2003, [nytimes.com/2003/03/09/books/40-second-man.html](http://nytimes.com/2003/03/09/books/40-second-man.html).
    博伊德是众所周知的：罗纳德·斯佩克特，《40秒的男人》，《纽约时报》书评，2003年3月9日，nytimes.com/2003/03/09/books/40-second-man.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **“This brilliant young officer”****:** Coram, *Boyd*, 184.
    这位杰出的年轻军官：科拉姆，博伊德，184页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **“I have glanced through a great quantity”****:** John Maynard Keynes, “Newton, the Man,” undelivered lecture, in Elizabeth Johns, ed., *The Collected Writings of John Maynard Keynes* (Cambridge and London: Cambridge University Press and Royal Economic Society, 1978), available at [mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton](http://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton).
    我已经浏览了大量的内容：约翰·梅纳德·凯恩斯，《牛顿，这个人》，未发表的演讲，收录于伊丽莎白·约翰斯编辑的《约翰·梅纳德·凯恩斯文集》（剑桥和伦敦：剑桥大学出版社和皇家经济学会，1978年），可在mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton获取。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **There’s a scene in the movie** *Patton***:** Franklin J. Schaffner *Patton* (Los Angeles: 20th Century Fox, 1970).
    《巴顿将军》电影中有一个场景：富兰克林·J·沙夫纳执导（洛杉矶：20世纪福克斯，1970年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **constantly dropping nuclear bombs****:** Loren Grush, “Elon Musk Elaborates on His Proposal to Nuke Mars,” Verge, October 2, 2015, [theverge.com/2015/10/2/9441029/elon-musk-mars-nuclear-bomb-colbert-interview-explained](http://theverge.com/2015/10/2/9441029/elon-musk-mars-nuclear-bomb-colbert-interview-explained).
    不断投放核弹：洛伦·格鲁什，“埃隆·马斯克详述他对轰炸火星的提议”，Verge，2015年10月2日，theverge.com/2015/10/2/9441029/elon-musk-mars-nuclear-bomb-colbert-interview-explained。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **humanity is a computer simulation****:** Andrew Griffin, “Elon Musk: The Chance We Are Not Living in a Computer Simulation Is ‘One in Billions,’ ” *Independent*, June 2, 2016, [independent.co.uk/tech/elon-musk-ai-artificial-intelligence-computer-simulation-gaming-virtual-reality-a7060941.html](http://independent.co.uk/tech/elon-musk-ai-artificial-intelligence-computer-simulation-gaming-virtual-reality-a7060941.html).
    人类是一个计算机模拟：安德鲁·格里芬，“埃隆·马斯克：我们不是生活在计算机模拟中的机会是‘十亿分之一’，”《独立报》，2016年6月2日，independent.co.uk/tech/elon-musk-ai-artificial-intelligence-computer-simulation-gaming-virtual-reality-a7060941.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **Naval Ravikant once wrote****:** Eric Jorgenson, *The Almanack of Naval Ravikant: A Guide to Wealth and Happiness* (N.p.: Magrathea, 2020), 144.
    纳瓦尔·拉维坎特曾经写道：埃里克·约根森，《纳瓦尔·拉维坎特年鉴：财富与幸福指南》（未出版地：麦格拉西亚，2020年），第144页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
+   
 
 ## Wild Numbers 狂野数字
 
 1. **Jerry Seinfeld was once driving****:** *Comedians in Cars Getting Coffee*, season 5, episodes 7–8, “The Unsinkable Legend—Part 1 & Part 2,” December 18, 2014, Crackle.
    杰瑞·塞菲尔德曾经开车：《开车去喝咖啡的喜剧演员》，第5季，第7-8集，“不可沉没的传奇-第一部和第二部”，2014年12月18日，Crackle。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **the movie** *Zero Dark Thirty***:** Kathryn Bigelow, *Zero Dark Thirty* (Culver City, CA: Sony Pictures, 2012).
    电影《零点三十》：凯瑟琳·毕格罗，零点三十（加利福尼亚库尔弗城：索尼影业，2012年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **After the bin Laden raid****:** John A. Gans Jr., “ ‘This Is 50-50’: Behind Obama’s Decision to Kill Bin Laden,” *Atlantic*, October 10, 2012, [theatlantic.com/international/archive/2012/10/this-is-50-50-behind-obamas-decision-to-kill-bin-laden/263449](http://theatlantic.com/international/archive/2012/10/this-is-50-50-behind-obamas-decision-to-kill-bin-laden/263449).
    本文讲述了本拉登行动之后的情况：约翰·A·甘斯（John A. Gans Jr.），“‘这是50-50’：奥巴马决定杀死本拉登背后的故事”，大西洋月刊，2012年10月10日，theatlantic.com/international/archive/2012/10/this-is-50-50-behind-obamas-decision-to-kill-bin-laden/263449。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Daniel Kahneman once said****:** Tim Adams, “This Much I Know: Daniel Kahneman,” *Guardian*, July 7, 2012, [theguardian.com/science/2012/jul/08/this-much-i-know-daniel-kahneman](http://theguardian.com/science/2012/jul/08/this-much-i-know-daniel-kahneman).
    丹尼尔·卡尼曼曾经说过：“蒂姆·亚当斯，《我所知道的这些：丹尼尔·卡尼曼》，卫报，2012年7月7日，theguardian.com/science/2012/jul/08/this-much-i-know-daniel-kahneman。”
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Evelyn Marie Adams won $3.9 million****:** Robert D. McFadden, “Odds-Defying Jersey Woman Hits Lottery Jackpot 2d Time,” *New York Times*, February 14, 1986, [nytimes.com/1986/02/14/nyregion/odds-defying-jersey-woman-hits-lottery-jackpot-2d-time.html](http://nytimes.com/1986/02/14/nyregion/odds-defying-jersey-woman-hits-lottery-jackpot-2d-time.html).
    伊夫琳·玛丽·亚当斯赢得了390万美元：罗伯特·D·麦克法登，“打破几率的新泽西女子第二次中彩票大奖”，《纽约时报》，1986年2月14日，nytimes.com/1986/02/14/nyregion/odds-defying-jersey-woman-hits-lottery-jackpot-2d-time.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **figured it was 1 in 30****:** Gina Kolata, “1-in-a-Trillion Coincidence, You Say? Not Really, Experts Find,” *New York Times*, February 27, 1990, [nytimes.com/1990/02/27/science/1-in-a-trillion-coincidence-you-say-not-really-experts-find.html](http://nytimes.com/1990/02/27/science/1-in-a-trillion-coincidence-you-say-not-really-experts-find.html).
    认为是30分之1：吉娜·科拉塔，“1万亿分之一的巧合，你说呢？专家发现并非如此，”《纽约时报》，1990年2月27日，nytimes.com/1990/02/27/science/1-in-a-trillion-coincidence-you-say-not-really-experts-find.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **Physicist Freeman Dyson****:** Freeman Dyson, “One in a Million,” *New York Review of Books*, March 25, 2004, [nybooks.com/articles/2004/03/25/one-in-a-million](http://nybooks.com/articles/2004/03/25/one-in-a-million).
    物理学家弗里曼·戴森：弗里曼·戴森，《百万分之一》，《纽约书评》，2004年3月25日，nybooks.com/articles/2004/03/25/one-in-a-million。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **describes how Americans stayed informed****:** Frederick Lewis Allen, *The Big Change: American Transforms Itself 1900–1950* (1952; rept., New York: Routledge, 2017), 8, 23.
    描述了美国人如何获取信息：弗雷德里克·刘易斯·艾伦，《巨变：美国自我转变1900-1950》（1952年；重印，纽约：劳特利奇出版社，2017年），8页，23页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **Eighteen hundred U.S. print media outlets****:** Megan Garber, “The Threat to American Democracy That Has Nothing to Do with Trump,” *Atlantic*, July 11, 2020, [theatlantic.com/culture/archive/2020/07/ghosting-news-margaret-sullivans-alarm-bell/614011](http://theatlantic.com/culture/archive/2020/07/ghosting-news-margaret-sullivans-alarm-bell/614011).
    1800家美国印刷媒体机构：Megan Garber，“与特朗普无关的对美国民主的威胁”，大西洋月刊，2020年7月11日，theatlantic.com/culture/archive/2020/07/ghosting-news-margaret-sullivans-alarm-bell/614011。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 10. **steadily more gloomy****:** Steven Pinker, “The Media Exaggerates Negative News. This Distortion Has Consequences,” *Guardian*, February 17, 2018, [theguardian.com/commentisfree/2018/feb/17/steven-pinker-media-negative-news](http://theguardian.com/commentisfree/2018/feb/17/steven-pinker-media-negative-news).
     越来越阴暗：史蒂文·平克，《媒体夸大负面新闻。这种扭曲有后果》，卫报，2018年2月17日，theguardian.com/commentisfree/2018/feb/17/steven-pinker-media-negative-news。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 11. **Compare this to the past****:** Allen, *The Big Change*, 8.
     与过去相比较：艾伦，《巨大的变革》，8。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 12. **“The Psychology of Human Misjudgment”****:** Peter T. Kaufman, ed., *Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger* (Marceline, MO: Walsworth Publishing Co., 2005), 205.
     《人类判断的心理学》：彼得·T·考夫曼编辑，《查理·芒格的贫穷查理年鉴：查理·T·芒格的机智与智慧》（马塞琳，密苏里州：沃尔斯沃思出版公司，2005年），205页。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 13. **Professor Philip Tetlock has spent****:** Eric Schurenberg, “Why the Experts Missed the Crash,” CNN Money, February 18, 2009, [money.cnn.com/2009/02/17/pf/experts_Tetlock.moneymag/index.htm](http://money.cnn.com/2009/02/17/pf/experts_Tetlock.moneymag/index.htm).
     菲利普·泰特洛克教授已经花费了：埃里克·舒伦伯格，“为什么专家们错过了崩盘”，CNN Money，2009年2月18日，money.cnn.com/2009/02/17/pf/experts_Tetlock.moneymag/index.htm。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 14. **But how many recessions****:** National Bureau of Economic Research, “Business Cycle Dating,” n.d., [nber.org/research/business-cycle-dating](http://nber.org/research/business-cycle-dating).
     但有多少次经济衰退：国家经济研究局，“商业周期确定”，无日期，nber.org/research/business-cycle-dating。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    
+    
 
 ## Best Story Wins 最好的故事获胜
 
 1. **King’s advisor and speechwriter****:** *Wall Street Journal*, “How Martin Luther King Went Off Script in ‘I Have a Dream,’ ” August 24, 2013, YouTube video, [youtube.com/watch?v=KxlOlynG6FY](http://youtube.com/watch?v=KxlOlynG6FY).
    国王的顾问和演讲撰稿人：《华尔街日报》，2013年8月24日，“马丁·路德·金如何在‘我有一个梦想’中偏离剧本”，YouTube视频，youtube.com/watch?v=KxlOlynG6FY。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **The first few minutes of King’s speech****:** Martin Luther King Jr., “I Have a Dream,” speech given at March on Washington for Jobs and Freedom, Washington, D.C., August 28, 1963, transcript at [americanrhetoric.com/speeches/mlkihaveadream.htm](http://americanrhetoric.com/speeches/mlkihaveadream.htm).
    马丁·路德·金的演讲的前几分钟：马丁·路德·金在1963年8月28日在华盛顿特区举行的“为就业和自由而战”游行中发表的“我有一个梦想”的演讲。演讲的文本可在americanrhetoric.com/speeches/mlkihaveadream.htm上找到。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **gospel singer Mahalia Jackson****:** “This Day in History: August 28, 1963: Mahalia Jackson Prompts Martin Luther King Jr. to Improvise ‘I Have a Dream’ Speech,” History.com, n.d., [history.com/this-day-in-history/mahalia-jackson-the-queen-of-gospel-puts-her-stamp-on-the-march-on-washington](http://history.com/this-day-in-history/mahalia-jackson-the-queen-of-gospel-puts-her-stamp-on-the-march-on-washington).
    福音歌手马哈利亚·杰克逊：“历史上的这一天：1963年8月28日：马哈利亚·杰克逊促使马丁·路德·金即兴演讲《我有一个梦想》，” History.com，无日期，history.com/this-day-in-history/mahalia-jackson-the-queen-of-gospel-puts-her-stamp-on-the-march-on-washington.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **King looks up****:** King, “I Have a Dream,” [youtube.com/watch?v=smEqnnklfYs](http://youtube.com/watch?v=smEqnnklfYs).
    国王抬头看着：“我有一个梦想”，youtube.com/watch?v=smEqnnklfYs。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Mark Twain was perhaps****:** Ken Burns, *Mark Twain* (Walpole, NH, and Arlington, VA: Florentine Films in association with WETA, 2001).
    马克·吐温可能是：肯·伯恩斯，马克·吐温（新罕布什尔州沃尔波尔和弗吉尼亚州阿灵顿：弗洛伦泰电影公司与WETA合作，2001年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **C. R. Hallpike is an anthropologist****:** C. R. Hallpike, “Review of Yuval Harari’s Sapiens: A Brief History of Humankind,” AIPavilion, 2017, [aipavilion.github.io/docs/hallpike-review.pdf](http://aipavilion.github.io/docs/hallpike-review.pdf).
    C. R. Hallpike是一位人类学家：C. R. Hallpike，“对于Yuval Harari的《人类简史》的评论”，AIPavilion，2017年，aipavilion.github.io/docs/hallpike-review.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **Harari once said about writing** *Sapiens***:** Ian Parker, “Yuval Noah Harari’s History of Everyone, Ever,” *New Yorker*, February 10, 2020, [newyorker.com/magazine/2020/02/17/yuval-noah-harari-gives-the-really-big-picture](http://newyorker.com/magazine/2020/02/17/yuval-noah-harari-gives-the-really-big-picture).
    哈拉瑞曾经在《智人简史》中说过：伊恩·帕克，“尤瓦尔·诺亚·哈拉瑞的人类历史”，《纽约客》杂志，2020年2月10日，newyorker.com/magazine/2020/02/17/yuval-noah-harari-gives-the-really-big-picture。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **But in 1990 Ken Burns’s****:** Ken Burns*, The Civil War* (Walpole, NH, and Arlington, VA: Florentine Films in association with WETA, 1990).
    但在1990年，肯·伯恩斯的《肯·伯恩斯，内战》（新罕布什尔州沃尔波尔和弗吉尼亚州阿灵顿：弗洛伦蒂尼电影公司与WETA合作，1990年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **Burns once described****:** “Ken Burns,” *SmartLess* (podcast), September 20, 2021, [podcasts.apple.com/us/podcast/ken-burns/id1521578868?i=1000535978926](http://podcasts.apple.com/us/podcast/ken-burns/id1521578868?i=1000535978926).
    伯恩斯曾经描述过：“肯·伯恩斯”，《SmartLess》（播客），2021年9月20日，podcasts.apple.com/us/podcast/ken-burns/id1521578868?i=1000535978926。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 10. **Chinese ferryboat SS Kiangya****:** Mfame Team, “The Tragedy of SS Kiangya,” Mfame, January 21, 2016, [mfame.guru/tragedy-ss-kiangya](http://mfame.guru/tragedy-ss-kiangya).
     中国轮渡SS江亚：Mfame团队，“SS江亚的悲剧”，Mfame，2016年1月21日，mfame.guru/tragedy-ss-kiangya。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 11. **MV** *Dona Paz***:** Editorial Team, “Sinking of Doña Paz: The World’s Deadliest Shipping Accident,” Safety4Sea, March 8, 2022, [safety4sea.com/cm-sinking-of-dona-paz-the-worlds-deadliest-shipping-accident](http://safety4sea.com/cm-sinking-of-dona-paz-the-worlds-deadliest-shipping-accident).
     MV Dona Paz：编辑团队，“Dona Paz沉没：世界上最致命的航运事故”，Safety4Sea，2022年3月8日，safety4sea.com/cm-sinking-of-dona-paz-the-worlds-deadliest-shipping-accident。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 12. **MV** *Le Joola***:** “ ‘Africa’s Titanic’ 20 Years Later: Sinking of Le Joola Has Lessons for Ferry Safety,” SaltWire, October 3, 2022, [saltwire.com/halifax/news/local/africas-titanic-20-years-later-sinking-of-le-joola-has-lessons-for-ferry-safety-100778847](http://saltwire.com/halifax/news/local/africas-titanic-20-years-later-sinking-of-le-joola-has-lessons-for-ferry-safety-100778847).
     MV Le Joola：“‘非洲的泰坦尼克’20年后：Le Joola的沉没对渡轮安全有教训”，SaltWire，2022年10月3日，saltwire.com/halifax/news/local/africas-titanic-20-years-later-sinking-of-le-joola-has-lessons-for-ferry-safety-100778847。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 13. **“Humor is a way to show”****:** Ken Burns, *Mark Twain*.
     幽默是一种展示的方式：肯·伯恩斯，马克·吐温。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 14. **Richard Feynman, an astounding storyteller****:** “Richard Feynman Fire,” Nebulajr, April 15, 2009, YouTube video, [youtube.com/watch?v=N1pIYI5JQLE&ab_channel=nebulajr](http://youtube.com/watch?v=N1pIYI5JQLE&ab_channel=nebulajr).
     理查德·费曼，一个令人惊叹的讲故事的人：“理查德·费曼之火”，Nebulajr，2009年4月15日，YouTube视频，youtube.com/watch?v=N1pIYI5JQLE&ab_channel=nebulajr。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 15. **Part of what made****:** Walter Isaacson, *Einstein: His Life and Universe* (New York: Simon & Schuster, 2007).
     沃尔特·艾萨克森所著《爱因斯坦：他的生活与宇宙》（纽约：西蒙与舒斯特出版社，2007年）的一部分。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 16. **Steven Spielberg noted this****:** Anthony Breznican, “Steven Spielberg: The EW interview,” *Entertainment Weekly*, December 2, 2011, [ew.com/article/2011/12/02/steven-spielberg-ew-interview](http://ew.com/article/2011/12/02/steven-spielberg-ew-interview).
     史蒂文·斯皮尔伯格指出：安东尼·布雷兹尼坎，《史蒂文·斯皮尔伯格：娱乐周刊采访》，娱乐周刊，2011年12月2日，ew.com/article/2011/12/02/steven-spielberg-ew-interview。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 17. **Visa founder Dee Hock****:** Dee Hock, *Autobiography of a Restless Mind: Reflections on the Human Condition*, vol. 2 (Bloomington, IN: iUniverse, 2013).
     Visa创始人迪·霍克：迪·霍克，一个不安的思绪的自传：对人类状况的反思，卷2（印第安纳州布卢明顿：iUniverse，2013年）。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    
+    
 
 ## Does Not Compute 无法计算
 
 1. **“Logic is an invention of man”****:** Will Durant, *Fallen Leaves: Last Words on Life, Love, War, and God* (New York: Simon & Schuster, 2014).
    “逻辑是人类的发明”：威尔·杜兰特，《落叶：关于生活、爱情、战争和上帝的最后言辞》（纽约：西蒙与舒斯特出版社，2014年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **He said something was missing****:** Ken Burns and Lynn Novick, *The Vietnam War* (Walpole, NH: Florentine Films et al., 2017).
    他说有些东西丢失了：肯·伯恩斯和林恩·诺维克，《越战》（新罕布什尔州沃尔波尔：弗洛伦蒂尼电影公司等，2017年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **“We’re killing these people”****:** Burns and Novick, *The Vietnam War*.
    “我们正在杀害这些人”：伯恩斯和诺维克，《越南战争》。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Carved on the wall****:** Ron Baker, “The McKinsey Maxim: ‘What You Can Measure You Can Manage.’ HOKUM!,” Firm of the Future, February 18, 2020, [firmofthefuture.com/content/the-mckinsey-maxim-what-you-can-measure-you-can-manage-hokum](http://firmofthefuture.com/content/the-mckinsey-maxim-what-you-can-measure-you-can-manage-hokum).
    刻在墙上的内容：Ron Baker，“麦肯锡准则：‘你能衡量的才能管理。’胡说八道！”，《未来的公司》，2020年2月18日，firmofthefuture.com/content/the-mckinsey-maxim-what-you-can-measure-you-can-manage-hokum。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Jeff Bezos once said****:** Julie Bort, “Amazon Founder Jeff Bezos Explains Why He Sends Single Character ‘?’ Emails,” *Inc.*, April 23, 2018, [inc.com/business-insider/amazon-founder-ceo-jeff-bezos-customer-emails-forward-managers-fix-issues.html](http://inc.com/business-insider/amazon-founder-ceo-jeff-bezos-customer-emails-forward-managers-fix-issues.html).
    杰夫·贝佐斯曾经说过：“朱莉·博特，《亚马逊创始人杰夫·贝佐斯解释为什么他发送单个字符'?'的电子邮件》，Inc.，2018年4月23日，inc.com/business-insider/amazon-founder-ceo-jeff-bezos-customer-emails-forward-managers-fix-issues.html。”
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **An aide to Bradley****:** Niall Ferguson, *The War of the World: Twentieth-Century Conflict and the Descent of the West* (New York: Penguin Press, 2006), 537.
    布拉德利的助手：尼尔·弗格森，《世界之战：二十世纪的冲突与西方的衰落》（纽约：企鹅出版社，2006年），537页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **Hill, a British physiologist****:** The Nobel Prize, “Archibald V. Hill: Biographical,” 1922, [nobelprize.org/prizes/medicine/1922/hill/biographical](http://nobelprize.org/prizes/medicine/1922/hill/biographical).
    希尔，一位英国生理学家：诺贝尔奖，“阿奇博尔德·V·希尔：传记”，1922年，nobelprize.org/prizes/medicine/1922/hill/biographical。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **Hill’s early work****:** Timothy David Noakes, “Fatigue Is a Brain-Derived Emotion That Regulates the Exercise Behavior to Ensure the Protection of Whole Body Homeostasis,” *Frontiers in Physiology* 3, no. 82 (2012): 1, [ncbi.nlm.nih.gov/pmc/articles/PMC3323922](http://ncbi.nlm.nih.gov/pmc/articles/PMC3323922).
    希尔的早期工作：Timothy David Noakes，“疲劳是一种由大脑产生的情绪，调节运动行为以确保整体身体稳态的保护”，《生理学前沿》第3卷第82期（2012年）：1，ncbi.nlm.nih.gov/pmc/articles/PMC3323922。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **Hill’s calculations had almost****:** Eric R. Kandel, *In Search of Memory: The Emergence of a New Science of Mind* (New York: W. W. Norton, 2007).
    希尔的计算几乎是：埃里克·R·坎德尔，《寻找记忆：心灵新科学的出现》（纽约：W·W·诺顿，2007年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 10. **Hill, once wedded****:** Alex Hutchinson, *Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance* (Boston: Mariner Books, 2018), 22–27 and 45–76.
     山，曾与亚历克斯·哈钦森结合：《忍耐：心智、身体和人类表现的奇妙弹性极限》（波士顿：水手图书，2018年），22-27和45-76页。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
-
+    
+    
 11. **“To tell you the truth”****:** “(1) Muscular Movement in Man: The Factors Governing Speed and Recovery from Fatigue (2) Living Machinery: Six Lectures Delivered before a ‘Juvenile Auditory’ at the Royal Institution, Christmas 1926 (3) Basal Metabolism in Health and Disease,” *Nature* 121 (1928): 314–16, [nature.com/articles/121314a0](http://nature.com/articles/121314a0).
     “说实话”：“（1）人类的肌肉运动：速度和疲劳恢复的因素（2）活体机器：1926年圣诞节在皇家学会向‘少年听众’发表的六次讲座（3）健康和疾病中的基础代谢”，《自然》121期（1928年）：314–16，nature.com/articles/121314a0。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    
+    
 
 ## Calm Plants the Seeds of Crazy 平静种下疯狂的种子
 
 1. **Minsky’s seminal theory****:** Hyman P. Minsky, “The Financial Instability Hypothesis,” Working Paper No. 74, Levy Economics Institute of Bard College, May 1992, [levyinstitute.org/pubs/wp74.pdf](http://levyinstitute.org/pubs/wp74.pdf).
    敏斯基的重要理论：海曼·P·敏斯基，《金融不稳定性假设》，巴德学院莱维经济研究所工作论文第74号，1992年5月，levyinstitute.org/pubs/wp74.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **“Everything feels unprecedented”****:** Kelly Hayes, @MsKellyMHayes, Twitter post, July 11, 2020, 4:22 p.m., [twitter.com/MsKellyMHayes/status/1282093046943952902](http://twitter.com/MsKellyMHayes/status/1282093046943952902).
    一切都感觉前所未有。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **Historian Dan Carlin****:** Dan Carlin, *The End Is Always Near* (New York: Harper, 2019), 194.
    历史学家丹·卡林：丹·卡林，《末日永远在眼前》（纽约：哈珀，2019年），194页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **decline in infectious disease****:** Victoria Hansen et al., “Infectious Disease Mortality Trends in the United States, 1980–2014,” *Journal of the American Medical Association* 316, no. 20 (November 22/29, 2016): 2149–51. https://jamanetwork.com/journals/jama/article-abstract/2585966.
    传染病的下降：维多利亚·汉森等人，“美国1980年至2014年的传染病死亡趋势”，《美国医学会杂志》316卷20期（2016年11月22/29日）：2149-51。https://jamanetwork.com/journals/jama/article-abstract/2585966。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Clark Whelton, a former speechwriter****:** Clark Whelton, “Say Your Prayers and Take Your Chances,” *City Journal*, March 13, 2020, [city-journal.org/1957-asian-flu-pandemic](http://city-journal.org/1957-asian-flu-pandemic).
    克拉克·惠尔顿，前演讲撰稿人：“克拉克·惠尔顿，《祈祷并抓住机会》，城市杂志，2020年3月13日，city-journal.org/1957-asian-flu-pandemic。”
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **Lori Freeman, CEO****:** Ed Yong, “How the Pandemic Defeated America,” *Atlantic*, September 2020, [theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191](http://theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191).
    洛瑞·弗里曼（Lori Freeman），首席执行官：艾德·永（Ed Yong），《大西洋月刊》2020年9月刊，文章标题为《疫情如何击败了美国》，网址为theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **Parts of Lake Tahoe received****:** Admin, “Incredible 2017 Tahoe Snow Totals,” *Tahoe Ski World*, December 28, 2018, [tahoeskiworld.com/incredible-2017-tahoe-snow-totals](http://tahoeskiworld.com/incredible-2017-tahoe-snow-totals).
    部分塔霍湖地区收到的降雪量：管理者，“令人难以置信的2017年塔霍湖降雪总量”，塔霍滑雪世界，2018年12月28日，tahoeskiworld.com/incredible-2017-tahoe-snow-totals。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **It was called a superbloom****:** Associated Press, “Out in the California Desert, Tourists Make a Beeline for ‘Flowergeddon,’ ” *Washington Post*, March 31, 2017, [washingtonpost.com/lifestyle/kidspost/out-of-the-california-desert-tourists-make-a-beeline-for-flowergeddon/2017/03/31/64313c3c-1620-11e7-833c-503e1f6394c9_story.html](http://washingtonpost.com/lifestyle/kidspost/out-of-the-california-desert-tourists-make-a-beeline-for-flowergeddon/2017/03/31/64313c3c-1620-11e7-833c-503e1f6394c9_story.html).
    它被称为超级盛花期：美联社，“在加利福尼亚沙漠中，游客们蜂拥而至参观‘花末日’”，《华盛顿邮报》，2017年3月31日，washingtonpost.com/lifestyle/kidspost/out-of-the-california-desert-tourists-make-a-beeline-for-flowergeddon/2017/03/31/64313c3c-1620-11e7-833c-503e1f6394c9_story.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **“A wet year reduces fires”****:** S.-Y. Simon Wang, “How Might El Niño Affect Wildfires in California?,” *ENSO* (blog), August 27, 2014, [climate.gov/news-features/blogs/enso/how-might-el-ni%C3%B1o-affect-wildfires-california](http://climate.gov/news-features/blogs/enso/how-might-el-niño-affect-wildfires-california).
    “湿年减少火灾”: S.-Y. Simon Wang, “厄尔尼诺现象如何影响加利福尼亚的野火?,” ENSO (博客), 2014年8月27日, climate.gov/news-features/blogs/enso/how-might-el-ni%C3%B1o-affect-wildfires-california.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 10. **Investor Chamath Palihapitiya****:** “Chamath Palihapitiya: The #1 Secret to Becoming Rich,” Investor Center, February 5, 2021, YouTube video, [youtube.com/watch?v=XnleEVXdQsE&ab_channel=InvestorCenter](http://youtube.com/watch?v=XnleEVXdQsE&ab_channel=InvestorCenter).
     投资者Chamath Palihapitiya：“Chamath Palihapitiya：成为富人的第一秘密”，投资者中心，2021年2月5日，YouTube视频，youtube.com/watch?v=XnleEVXdQsE&ab_channel=InvestorCenter。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    
+    
 
 ## Too Much, Too Soon, Too Fast 太多，太快，太早
 
 1. **J. B. S. Haldane once showed****:** J. B. S. Haldane, “On Being the Right Size,” in *Possible Worlds and Other Essays* (London: Chatto & Windus, 1927), 18, available at [searchworks.stanford.edu/view/8708294](http://searchworks.stanford.edu/view/8708294).
    J. B. S. Haldane曾经展示过：J. B. S. Haldane，《关于合适尺寸的论述》，收录于《可能的世界和其他论文》（伦敦：Chatto & Windus，1927年），第18页，可在searchworks.stanford.edu/view/8708294查阅。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **Here’s how often the U.S. stock market****:** Robert J. Shiller, “Online Data Robert Shiller,” http://www.econ.yale.edu/~shiller/data.htm.
    这是美国股市的频率：罗伯特·J·席勒，“在线数据罗伯特·席勒”，http://www.econ.yale.edu/~shiller/data.htm。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **Howard Schultz wrote to senior management****:** Howard Schultz, memo to Jim Donald, February 14, 2007, [starbucksgossip.typepad.com/_/2007/02/starbucks_chair_2.html](http://starbucksgossip.typepad.com/_/2007/02/starbucks_chair_2.html).
    霍华德·舒尔茨写给高级管理层：霍华德·舒尔茨致吉姆·唐纳德的备忘录，2007年2月14日，starbucksgossip.typepad.com/_/2007/02/starbucks_chair_2.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Tire tycoon Harvey Firestone****:** Harvey S. Firestone, *Men and Rubber: The Story of Business* (New York: Doubleday, Page & Co., 1926), available at https://blas.com/wp-content/uploads/2019/07/Men-and-Rubber.pdf.
    轮胎大亨哈维·法尔斯通：哈维·S·法尔斯通，《人与橡胶的故事：商业篇》（纽约：道布尔迪出版社，1926年），可在https://blas.com/wp-content/uploads/2019/07/Men-and-Rubber.pdf获取。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **“A tree that grows quickly rots quickly”****:** Peter Wohlleben, *The Secret Wisdom of Nature* (Vancouver: Greystone Books, 2019).
    “长得快的树容易腐烂”: 彼得·沃勒本，《自然的秘密智慧》（温哥华: Greystone Books, 2019）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **That’s what a team of biologists****:** Who-Seung Lee, Pat Monaghan, and Neil B. Metcalfe, “Experimental Demonstration of the Growth Rate–Lifespan Trade-off,” *Proceedings of the Royal Society B* 280 (2013): 20122370, [royalsocietypublishing.org/doi/pdf/10.1098/rspb.2012.2370](http://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2012.2370).
    这是一组生物学家的研究成果：Who-Seung Lee、Pat Monaghan和Neil B. Metcalfe，“生长速率与寿命之间的实验性证明”，《英国皇家学会B类学报》280 (2013): 20122370, royalsocietypublishing.org/doi/pdf/10.1098/rspb.2012.2370.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
+   
 
 ## When the Magic Happens 当魔法发生时
 
 1. **The Triangle Shirtwaist Factory fire****:** Ric Burns, *New York: A Documentary Film* (New York: Steeplechase Films and New York: New-York Historical Society et al., 1999–2003).
    三角衬衫厂大火：Ric Burns, 纽约：纪录片《纽约》（纽约：Steeplechase Films和纽约：纽约历史学会等，1999-2003年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **“Thud-dead, thud-dead, thud-dead”****:** William Shepherd, “Eyewitness at the Triangle,” in *Out of the Sweatshop: The Struggle for Industrial Democracy*, ed. Leon Stein (New York: Quadrangle/New Times Book Company, 1977), 188–93, available at [trianglefire.ilr.cornell.edu/primary/testimonials/ootss_WilliamShepherd.html](http://trianglefire.ilr.cornell.edu/primary/testimonials/ootss_WilliamShepherd.html).
    “咚嗒，咚嗒，咚嗒”：威廉·谢泼德，《三角大火的目击者》，收录于《走出血汗工厂：工业民主的斗争》，编者：利昂·斯坦（纽约：四方/新时代图书公司，1977年），188-93页，可在trianglefire.ilr.cornell.edu/primary/testimonials/ootss_WilliamShepherd.html上获取。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **the burst of scientific progress****:** Frederick Lewis Allen, *The Big Change: American Transforms Itself 1900–1950* (1952; rept., New York: Routledge, 2017).
    科学进步的爆发：弗雷德里克·刘易斯·艾伦，《巨变：美国自我转变1900-1950》（1952年；重印，纽约：劳特利奇出版社，2017年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Shopify founder Toby Lütke****:** Brad Stone, “How Shopify Outfoxed Amazon to Become the Everywhere Store,” *Bloomberg*, December 22, 2021, [bloomberg.com/news/features/2021-12-23/shopify-amazon-retail-rivalry-heats-up-with-covid-sparked-online-shopping-booma](http://bloomberg.com/news/features/2021-12-23/shopify-amazon-retail-rivalry-heats-up-with-covid-sparked-online-shopping-booma).
    Shopify创始人Toby Lütke：布拉德·斯通，“Shopify如何在成为无处不在的商店方面胜过亚马逊”，彭博社，2021年12月22日，bloomberg.com/news/features/2021-12-23/shopify-amazon-retail-rivalry-heats-up-with-covid-sparked-online-shopping-booma.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Economist Alex Field****:** Alexander J. Field, *A Great Leap Forward: 1930s Depression and U.S. Economic Growth* (New Haven, CT: Yale University Press, 2012), 7.
    经济学家亚历克斯·菲尔德：亚历山大·J·菲尔德，《大跃进：1930年代的经济衰退和美国经济增长》（康涅狄格州纽黑文：耶鲁大学出版社，2012年），7页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **The Department of Highway Transportation****:** Federal Highway Administration, “Contributions and Crossroads: Timeline,” n.d., [fhwa.dot.gov/candc/timeline.cfm](http://fhwa.dot.gov/candc/timeline.cfm).
    公路交通部：联邦公路管理局，“贡献与十字路口：时间线”，无日期，fhwa.dot.gov/candc/timeline.cfm。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **Franklin Roosevelt said in a speech****:** Franklin D. Roosevelt, “Campaign Address in Portland, Oregon on Public Utilities and Development of Hydro-Electric Power,” September 21, 1932, available at [presidency.ucsb.edu/documents/campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power](http://presidency.ucsb.edu/documents/campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power).
    富兰克林·罗斯福在一次演讲中说道：“富兰克林·D·罗斯福，《关于公共事业和水力发电发展的竞选演讲》，1932年9月21日，可在presidency.ucsb.edu/documents/campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power找到。”
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **Robert Gordon wrote****:** Robert Gordon, *The Rise and Fall of American Growth* (Princeton, NJ: Princeton University Press, 2016), 564.
    罗伯特·戈登写道：罗伯特·戈登，《美国增长的兴衰》（普林斯顿，新泽西州：普林斯顿大学出版社，2016年），564页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 9. **Richard Nixon once observed****:** JM, “The Purpose of Life: Nixon,” July 9, 2011, YouTube video, [youtube.com/watch?v=Pc3IfB23W4c&ab_channel=JM](http://youtube.com/watch?v=Pc3IfB23W4c&ab_channel=JM).
    理查德·尼克松曾经观察到：JM，“生活的目的：尼克松”，2011年7月9日，YouTube视频，youtube.com/watch?v=Pc3IfB23W4c&ab_channel=JM。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 10. **Entrepreneur Andrew Wilkinson****:** Andrew Wilkinson, @awilkinson, Twitter post, April 26, 2021, 8:07 a.m., [twitter.com/awilkinson/status/1386698431905730565?s=20](http://twitter.com/awilkinson/status/1386698431905730565?s=20).
     企业家安德鲁·威尔金森：安德鲁·威尔金森，@awilkinson，推特帖子，2021年4月26日上午8:07，twitter.com/awilkinson/status/1386698431905730565?s=20。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    [
+    ]()
 
 11. **Investor Patrick O’Shaughnessy****:** Patrick O’Shaughnessy, @patrick_oshag, Twitter post, July 17, 2021, 6:31 a.m., [twitter.com/patrick_oshag/status/1416390114998198273?s=20&t=n2Yw1L1b657o_69Iyprf7g](http://twitter.com/patrick_oshag/status/1416390114998198273?s=20&t=n2Yw1L1b657o_69Iyprf7g).
     投资者Patrick O'Shaughnessy：Patrick O'Shaughnessy，@patrick_oshag，推特帖子，2021年7月17日，上午6:31，twitter.com/patrick_oshag/status/1416390114998198273?s=20&t=n2Yw1L1b657o_69Iyprf7g。
 
-    [GO TO NOTE REFERENCE IN TEXT
-    在文本中查看注释引用]()
+    [
+    ]()
 
 ## Overnight Tragedies and Long-Term Miracles 一夜之间的悲剧和长期的奇迹
 
 1. **Dwight Eisenhower ate a hamburger****:** Cody White, “ ‘Heart Attack Strikes Ike,’ President Eisenhower’s 1955 Medical Emergency in Colorado,” National Archives, September 22, 2016, [text-message.blogs.archives.gov/2016/09/22/heart-attack-strikes-ike-president-eisenhowers-1955-medical-emergency-in-colorado](http://text-message.blogs.archives.gov/2016/09/22/heart-attack-strikes-ike-president-eisenhowers-1955-medical-emergency-in-colorado).
    德怀特·艾森豪威尔吃了一个汉堡包：科迪·怀特，《“心脏病突袭艾克”：艾森豪威尔总统1955年在科罗拉多州的医疗紧急情况》，国家档案馆，2016年9月22日，text-message.blogs.archives.gov/2016/09/22/heart-attack-strikes-ike-president-eisenhowers-1955-medical-emergency-in-colorado。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 2. **Historian David Wooton****:** Nassim Nicholas Taleb, *Antifragile: Things That Gain from Disorder* (New York: Random House, 2014).
    历史学家大卫·伍顿：纳西姆·尼古拉斯·塔勒布，《反脆弱：从混乱中获益的事物》（纽约：兰登书屋，2014年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 ## Tiny and Magnificent 微小而壮丽
 
 1. **A 2010 Yale study showed****:** Marc Santore, “Study Finds Snacking Is a Major Cause of Child Obesity,” Yale School of Medicine, April 2, 2010, [medicine.yale.edu/news-article/study-finds-snacking-is-a-major-cause-of-child-obesity](http://medicine.yale.edu/news-article/study-finds-snacking-is-a-major-cause-of-child-obesity).
    2010年的一项耶鲁大学研究表明：马克·桑托雷，“研究发现零食是儿童肥胖的主要原因”，耶鲁医学院，2010年4月2日，medicine.yale.edu/news-article/study-finds-snacking-is-a-major-cause-of-child-obesity.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 2. **“The island over which the explosion took place”****:** Dan Carlin, *The End Is Always Near* (New York: Harper, 2019), 148.
    “爆炸发生的岛屿”：丹·卡林，《末日总会来临》（纽约：哈珀，2019年），148页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 3. **One, called Davy Crockett****:** Matthew Seelinger, “The M28/M29 Davy Crockett Nuclear Weapon System,” Army Historical Foundation, [armyhistory.org/the-m28m29-davy-crockett-nuclear-weapon-system](http://armyhistory.org/the-m28m29-davy-crockett-nuclear-weapon-system).
    一个名为戴维·克罗克特的武器系统：马修·西林格，《M28/M29戴维·克罗克特核武器系统》，陆军历史基金会，armyhistory.org/the-m28m29-davy-crockett-nuclear-weapon-system。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 4. **Cuban Missile Crisis****:** Serhii Plokhy, *Nuclear Folly: A History of the Cuban Missile Crisis* (New York: W. W. Norton, 2021).
    古巴导弹危机：谢尔盖·普洛赫伊，《核的愚蠢：古巴导弹危机的历史》（纽约：W. W. Norton，2021年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 5. **Tenerife airport disaster****:** Niall Ferguson, *Doom: The Politics of Catastrophe* (London: Penguin Books, 2021), 258–62.
    特内里费机场灾难：尼尔·弗格森，《末日：灾难的政治》（伦敦：企鹅图书，2021年），258-62页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 6. **Biologist Leslie Orgel****:** Jack D. Dunitz and Gerald F. Joyce, “A Biographical Memoir of Leslie E. Orgel, 1927–2007” (Washington, D.C.: National Academy of Sciences, 2013), [nasonline.org/publications/biographical-memoirs/memoir-pdfs/orgel-leslie.pdf](http://nasonline.org/publications/biographical-memoirs/memoir-pdfs/orgel-leslie.pdf).
    生物学家莱斯利·奥格尔：杰克·D·邓尼茨和杰拉尔德·F·乔伊斯，《莱斯利·E·奥格尔传记回忆录，1927-2007年》（华盛顿特区：美国国家科学院，2013年），nasonline.org/publications/biographical-memoirs/memoir-pdfs/orgel-leslie.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
+
 
 7. **Investor Howard Marks****:** “Howard Marks—Embracing the Psychology of Investing,” June 21, 2021, in *Invest Like the Best with Patrick O’Shaughnessy* (podcast), [joincolossus.com/episodes/70790270/marks-embracing-the-psychology-of-investing?tab=transcript](http://joincolossus.com/episodes/70790270/marks-embracing-the-psychology-of-investing?tab=transcript).
    投资者霍华德·马克斯：“霍华德·马克斯——拥抱投资心理学”，2021年6月21日，Patrick O'Shaughnessy主持的《像最好的投资一样》（播客）中，网址为joincolossus.com/episodes/70790270/marks-embracing-the-psychology-of-investing?tab=transcript。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 ## Elation and Despair 欣喜和绝望
 
 1. **Stockdale was asked in an interview****:** Jim Collins, “The Stockdale Paradox,” JimCollins.com, [jimcollins.com/media_topics/TheStockdaleParadox.html](http://jimcollins.com/media_topics/TheStockdaleParadox.html).
    斯托克代尔在一次采访中被问到：吉姆·科林斯，“斯托克代尔悖论”，JimCollins.com，jimcollins.com/media_topics/TheStockdaleParadox.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 2. **“The American dream”****:** James Truslow Adams, *The Epic of America* (1931; rept., New York: Routledge, 2017).
    “美国梦”：詹姆斯·特鲁斯洛·亚当斯，《美国史诗》（1931年；重印，纽约：劳特利奇出版社，2017年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 3. **Jane Pauley interviewed****:** CNBC Make It, “Bill Gates Wasn’t Worried about Burnout in 1984—Here’s Why,” February 25, 2019, YouTube video, [youtube.com/watch?v=MhnSzwXvGfc&ab_channel=CNBCMakeIt](http://youtube.com/watch?v=MhnSzwXvGfc&ab_channel=CNBCMakeIt).
    简体中文翻译如下： 简·波利采访：CNBC Make It，“比尔·盖茨在1984年并不担心过劳问题——原因在这里”，2019年2月25日，YouTube视频，youtube.com/watch?v=MhnSzwXvGfc&ab_channel=CNBCMakeIt。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **the first time he met Bill****:** Paul Allen, *Idea Man* (New York: Portfolio/Penguin, 2011), 32.
    他第一次见到比尔时：保罗·艾伦，《点子人：保罗·艾伦自传》（纽约：投资组合/企鹅出版社，2011年），32页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **From the day he started****:** Leah Fessler, “Bill Gates’ Biggest Worry as a 31-Year-Old Billionaire Wasn’t Apple or IBM,” Yahoo! News, February 28, 2018, [yahoo.com/news/bill-gates-biggest-worry-31-170014556.html](http://yahoo.com/news/bill-gates-biggest-worry-31-170014556.html).
    从他开始的那一天起：Leah Fessler，《比尔·盖茨在31岁时最担心的不是苹果或IBM》，雅虎新闻，2018年2月28日，yahoo.com/news/bill-gates-biggest-worry-31-170014556.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## Casualties of Perfection 完美的牺牲品
 
 1. **a Russian biologist****:** Georgy S. Levit, Uwe Hossfeld, and Lennart Olsson, “From the ‘Modern Synthesis’ to Cybernetics: Ivan Ivanovich Schmalhausen (1884–1963) and His Research Program for a Synthesis of Evolutionary and Developmental Biology,” *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution* 306, no. 2 (March 15, 2006): 89–106, [pubmed.ncbi.nlm.nih.gov/16419076](http://pubmed.ncbi.nlm.nih.gov/16419076).
    一位俄罗斯生物学家：Georgy S. Levit, Uwe Hossfeld和Lennart Olsson，“从‘现代综合’到控制论：伊万·伊万诺维奇·施马尔豪森（1884-1963）及其关于进化和发育生物学综合研究计划”，《实验动物学杂志B部分：分子与发育进化》306卷2期（2006年3月15日）：89-106，pubmed.ncbi.nlm.nih.gov/16419076。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **become very good at one thing****:** Richard Lewontin and Richard Levins, “Schmalhausen’s Law,” *Capitalism Nature Socialism* 11, no. 4 (2000): 103–8, [tandfonline.com/doi/abs/10.1080/10455750009358943?journalCode=rcns20](http://tandfonline.com/doi/abs/10.1080/10455750009358943?journalCode=rcns20).
    变得非常擅长一件事：Richard Lewontin和Richard Levins，“Schmalhausen's Law”，《资本主义自然社会主义》11卷4期（2000年）：103-8，tandfonline.com/doi/abs/10.1080/10455750009358943?journalCode=rcns20。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **Secretary of State George Shultz****:** David Leonhardt, “You’re Too Busy. You Need a ‘Shultz Hour,’ ” *New York Times*, April 18, 2017, [nytimes.com/2017/04/18/opinion/youre-too-busy-you-need-a-shultz-hour.html](http://nytimes.com/2017/04/18/opinion/youre-too-busy-you-need-a-shultz-hour.html).
    国务卿乔治·舒尔茨：大卫·莱昂哈特，《你太忙了。你需要一个“舒尔茨小时”》，纽约时报，2017年4月18日，nytimes.com/2017/04/18/opinion/youre-too-busy-you-need-a-shultz-hour.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **walking increases creativity****:** May Wong, “Stanford Study Finds Walking Improves Creativity,” Stanford News, April 24, 2014, [news.stanford.edu/2014/04/24/walking-vs-sitting-042414](http://news.stanford.edu/2014/04/24/walking-vs-sitting-042414).
    行走增加创造力：《斯坦福研究发现行走提高创造力》，斯坦福新闻，2014年4月24日，news.stanford.edu/2014/04/24/walking-vs-sitting-042414。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Warren Buffett’s secret was****:** Charlie Munger, “2007 USC Law School Commencement Address,” University of Southern California Law School, Los Angeles, CA, May 13, 2007, [jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger](http://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger).
    沃伦·巴菲特的秘密是：查理·芒格，《2007年南加州大学法学院毕业典礼演讲》，南加州大学法学院，洛杉矶，加利福尼亚州，2007年5月13日，jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **Nassim Taleb says, “My only measure”****:** Nassim Nicholas Taleb, *The Bed of Procrustes* (New York: Random House, 2010), 37.
    纳西姆·塔勒布说：“我的唯一衡量标准”：纳西姆·尼古拉斯·塔勒布，《普罗克鲁斯床》（纽约：兰登书屋，2010年），37页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## It’s Supposed to Be Hard 这本来就很困难
 
 1. **Few stories make you wince****:** Ric Burns, *The Donner Party* (New York: Steeplechase Films, 1992).
    少数故事让你不寒而栗：Ric Burns，《唐纳派对》（纽约：Steeplechase Films，1992年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. *Lawrence of Arabia***:** David Lean, *Lawrence of Arabia* (Culver City, CA: Columbia Pictures, 1962).
    阿拉伯的劳伦斯：大卫·林恩，《阿拉伯的劳伦斯》（加利福尼亚库尔弗城：哥伦比亚电影公司，1962年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **“The safest way to try”****:** Shane Parrish, “Simple Acts,” *Brain Food* (blog), October 23, 2022, https://fs.blog/brain-food/october-23-2022.
    “尝试的最安全方式”：Shane Parrish，《简单行动》，Brain Food（博客），2022年10月23日，https://fs.blog/brain-food/october-23-2022。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **David Letterman asked****:** *Comedians in Cars Getting Coffee*, season 2, episode 2, “I Like Kettlecorn,” June 20, 2013, Crackle.
    大卫·莱特曼问道：《开车去喝咖啡的喜剧演员》，第二季，第二集，“我喜欢糖玉米”，2013年6月20日，Crackle。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. *Harvard Business Review* **once pointed out****:** Daniel McGinn, “Life’s Work: An Interview with Jerry Seinfeld,” *Harvard Business Review*, January-February 2007, [hbr.org/2017/01/lifes-work-jerry-seinfeld](http://hbr.org/2017/01/lifes-work-jerry-seinfeld).
    《哈佛商业评论》曾指出：丹尼尔·麦金，《人生的工作：与杰瑞·塞菲尔德的访谈》，《哈佛商业评论》，2007年1-2月，hbr.org/2017/01/lifes-work-jerry-seinfeld。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **Jeff Bezos once talked about****:** “This Is Killing Your Success: Jeff Bezos,” The Outcome, February 14, 2021, YouTube video, [youtube.com/watch?v=sbhY0EyOcqg&ab_channel=TheOutcome](http://youtube.com/watch?v=sbhY0EyOcqg&ab_channel=TheOutcome).
    杰夫·贝索斯曾经谈到：“这个正在扼杀你的成功：杰夫·贝索斯”，《结果》，2021年2月14日，YouTube视频，youtube.com/watch?v=sbhY0EyOcqg&ab_channel=TheOutcome。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **“They couldn’t hold a job because”****:** “Steven Pressfield—How to Overcome Self-Sabotage and Resistance, Routines for Little Successes, and the Hero’s Journey vs. the Artist’s Journey,” February 26, 2021, *The Tim Ferriss Show* (podcast), episode 501, [podcasts.apple.com/us/podcast/501-steven-pressfield-how-to-overcome-self-sabotage/id863897795?i=1000510784746](http://podcasts.apple.com/us/podcast/501-steven-pressfield-how-to-overcome-self-sabotage/id863897795?i=1000510784746).
    他们无法保住工作，因为：《史蒂文·普雷斯菲尔德——如何克服自我破坏和阻力，小成功的例行公事，以及英雄之旅与艺术家之旅》，2021年2月26日，《蒂姆·费里斯秀》（播客）第501集，podcasts.apple.com/us/podcast/501-steven-pressfield-how-to-overcome-self-sabotage/id863897795?i=1000510784746。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **“If you can’t use your legs”****:** Doris Kearns Goodwin, *No Ordinary Time* (New York: Simon & Schuster, 2008), 218.
    如果你不能使用你的双腿
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## Keep Running 继续奔跑
 
 1. **later deemed Cope’s Rule****:** Henry Fairfield Osborn, “A Biographical Memoir of Edward Drinker Cope, 1840–1897” (Washington, D.C.: National Academy of Sciences, 1930).
    后来被称为科普法则：亨利·费尔菲尔德·奥斯本，《爱德华·德林克·科普的传记回忆录，1840-1897》（华盛顿特区：美国国家科学院，1930年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **“The tendency for evolution”****:** Santa Fe Institute, “Bigger Is Better, Until You Go Extinct,” news release, July 21, 2008, [santafe.edu/news-center/news/bigger-is-better-until-you-go-extinct](http://santafe.edu/news-center/news/bigger-is-better-until-you-go-extinct).
    “进化的趋势”：圣塔菲研究所，“越大越好，直到灭绝”，新闻发布，2008年7月21日，santafe.edu/news-center/news/bigger-is-better-until-you-go-extinct.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **An ant can fall****:** April Holladay, “Ant’s Slow Fall Key to Survival,” *Globe and Mail* (Toronto), January 12, 2009, [theglobeandmail.com/technology/ants-slow-fall-key-to-survival/article4275684](http://theglobeandmail.com/technology/ants-slow-fall-key-to-survival/article4275684).
    一只蚂蚁可以掉下来：April Holladay，“蚂蚁缓慢下落是生存的关键”，《环球邮报》（多伦多），2009年1月12日，theglobeandmail.com/technology/ants-slow-fall-key-to-survival/article4275684。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **Big animals also require****:** Morgan Housel, “Crickets: The Epitome of Investing Success,” Medium, March 10, 2016, [medium.com/@TMFHousel/crickets-the-epitome-of-investing-success-9f3bccd2628](http://medium.com/@TMFHousel/crickets-the-epitome-of-investing-success-9f3bccd2628).
    大型动物也需要：Morgan Housel，“蟋蟀：投资成功的典范”，Medium，2016年3月10日，medium.com/@TMFHousel/crickets-the-epitome-of-investing-success-9f3bccd2628。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **“No one has to tell you”****:** Isadore Barmash, “A Sears ‘Store of the Future,’ ” Market Place, *New York Times*, July 27, 1983, [nytimes.com/1983/07/27/business/market-place-a-sears-store-of-the-future.html](http://nytimes.com/1983/07/27/business/market-place-a-sears-store-of-the-future.html).
    “没有人需要告诉你”: 伊萨多尔·巴马什，《西尔斯的“未来商店”》，《市场场所》，纽约时报，1983年7月27日，nytimes.com/1983/07/27/business/market-place-a-sears-store-of-the-future.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. *The Times* **wrote in 1974****:** Peter T. Kilborn, “Regan Bids Wall Street Seek Sears’s Efficiency,” *New York Times*, June 11, 1974, [nytimes.com/1974/06/11/archives/regan-bids-wall-street-seek-searss-efficiency2-unmitigated.html](http://nytimes.com/1974/06/11/archives/regan-bids-wall-street-seek-searss-efficiency2-unmitigated.html).
    《纽约时报》1974年的报道：彼得·T·基尔伯恩，“里根要求华尔街寻求西尔斯的效率”，1974年6月11日，nytimes.com/1974/06/11/archives/regan-bids-wall-street-seek-searss-efficiency2-unmitigated.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **lost all their value****:** Morgan Housel, “Risk Is How Much Time You Need,” Collab Fund, March 30, 2017, [collabfund.com/blog/risk](http://collabfund.com/blog/risk).
    失去了所有的价值：摩根·豪斯尔，“风险是你需要多少时间”，Collab基金，2017年3月30日，collabfund.com/blog/risk。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **Van Valen argued****:** Leigh Van Valen, “A New Evolutionary Law,” *Evolutionary Theory* 1 (July 1973): 1–30, [mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf](http://mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf).
    Van Valen认为：Leigh Van Valen，“一条新的进化定律”，进化理论1（1973年7月）：1-30，mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## The Wonders of the Future 未来的奇迹
 
 1. **“America’s Thinking Men”****:** “America’s Thinking Men Forecast the Wonders of the Future,” *Washington Post,* January 12, 1908.
    “美国的思考者们”：“美国的思考者们预测未来的奇迹”，《华盛顿邮报》，1908年1月12日。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **called an arc lamp****:** *American Experience*, season 27, episode 3, “Edison,” January 27, 2015, PBS.
    称为弧灯：美国体验，第27季，第3集，“爱迪生”，2015年1月27日，PBS。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **Fisher’s Fundamental Theorem****:** Anya Plutynski, “What Was Fisher’s Fundamental Theorem of Natural Selection and What Was It For?,” *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences* 37 (2006): 59–82, [philsci-archive.pitt.edu/15310/1/FundamentalTheorem.pdf](http://philsci-archive.pitt.edu/15310/1/FundamentalTheorem.pdf).
    费舍尔的基本定理：安雅·普鲁蒂恩斯基，《费舍尔的自然选择基本定理是什么，它的作用是什么？》，《科学史与哲学研究》C部分：生物与生物医学科学的科学史与哲学研究，第37卷（2006年）：59-82，philsci-archive.pitt.edu/15310/1/FundamentalTheorem.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **the first long-distance wireless****:** “January 12—Births—Scientists Born on January 12th,” Today in Science History, [todayinsci.com/1/1_12.htm](http://todayinsci.com/1/1_12.htm).
    第一个长距离无线电：《1月12日-出生-1月12日出生的科学家》，科学历史今日，todayinsci.com/1/1_12.htm。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## Harder Than It Looks and Not as Fun as It Seems 比看起来更难，不如看起来的那么有趣
 
 1. **“You think your pain”****:** James Baldwin, “The Doom and Glory of Knowing Who You Are,” *Life*, May 24, 1963.
    你认为你的痛苦：詹姆斯·鲍德温，《知道自己是谁的厄运与荣耀》，《生活》杂志，1963年5月24日。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **Elon Musk once broke down in tears****:** David Gelles et al., “Elon Musk Details ‘Excruciating’ Personal Toll of Tesla Turmoil,” *New York Times*, August 16, 2018, [nytimes.com/2018/08/16/business/elon-musk-interview-tesla.html](http://nytimes.com/2018/08/16/business/elon-musk-interview-tesla.html).
    埃隆·马斯克曾经哭泣：大卫·盖尔斯等人，“埃隆·马斯克详述特斯拉动荡的‘痛苦’个人代价”，《纽约时报》，2018年8月16日，nytimes.com/2018/08/16/business/elon-musk-interview-tesla.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## Incentives: The Most Powerful Force in the World 激励：世界上最强大的力量
 
 1. **Rapper Notorious B.I.G.****:** Emmett Malloy, *Biggie: I Got a Story to Tell* (Los Gatos, CA: Netflix, 2021).
    说唱歌手臭名昭著的B.I.G.：埃米特·马洛伊，Biggie：我有一个故事要讲（加利福尼亚州洛斯加图斯：Netflix，2021年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **Soviet poet Yevgeny Yevtushenko****:** Yevgeny Yevtushenko, “Career,” Goodreads, [goodreads.com/quotes/1265237-career-galileo-the-clergy-maintained-was-a-pernicious-and-stubborn](http://goodreads.com/quotes/1265237-career-galileo-the-clergy-maintained-was-a-pernicious-and-stubborn).
    苏联诗人叶甫盖尼·叶夫图申科：“叶甫盖尼·叶夫图申科，《职业》，Goodreads，goodreads.com/quotes/1265237-career-galileo-the-clergy-maintained-was-a-pernicious-and-stubborn。”
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **One of them explained****:** *Drug Lords*, season 2, episode 1, “El Chapo,” July 10, 2018, Netflix.
    其中一个人解释道：《毒枭之王》第二季第一集，“El Chapo”，2018年7月10日，Netflix。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **didn’t show the spaceship****:** “Cult’s Telescope Couldn’t Find UFO,” *Chicago Tribune*, April 1, 1997, [chicagotribune.com/news/ct-xpm-1997-04-02-9704020119-story.html](http://chicagotribune.com/news/ct-xpm-1997-04-02-9704020119-story.html).
    未显示太空飞船：“邪教的望远镜未能发现不明飞行物”，《芝加哥论坛报》，1997年4月1日，chicagotribune.com/news/ct-xpm-1997-04-02-9704020119-story.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **“Show me a man”****:** Jill Lepore, *These Truths* (New York: W. W. Norton, 2018), 412–13.
    “给我看一个人”：吉尔·莱波尔，《这些真相》（纽约：W·W·诺顿，2018年），412-13页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **is the career incentive****:** Heather Lyu et al., “Overtreatment in the United States,” *PLoS One* 12, no. 9 (2017): e0181970, [ncbi.nlm.nih.gov/pmc/articles/PMC5587107](http://ncbi.nlm.nih.gov/pmc/articles/PMC5587107).
    职业激励是：Heather Lyu等人的研究《美国的过度治疗》（2017年），PLoS One 12卷9期：e0181970，ncbi.nlm.nih.gov/pmc/articles/PMC5587107。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **“Maybe you can cut down on that”****:** *The Daily Show*, season 14, episode 36, “Jim Cramer,” March 12, 2009, Comedy Central.
    也许你可以减少那个：《每日秀》，第14季，第36集，“吉姆·克莱默”，2009年3月12日，喜剧中心。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+   
 
 ## Now You Get It 现在你明白了
 
 1. **Marine general named Smedley Butler****:** John Edgar Hoover, memo to Mr. Tamm, November 22, 1934, [vault.fbi.gov/smedley-butler/Smedley%20Butler%20Part%2001%20of%2002](http://vault.fbi.gov/smedley-butler/Smedley Butler Part 01 of 02).
    海军将军史密德利·巴特勒：约翰·埃德加·胡佛致Tamm先生的备忘录，1934年11月22日，vault.fbi.gov/smedley-butler/Smedley%20Butler%20Part%2001%20of%2002。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 2. **sweeping Europe at the time****:** “Gen. Butler Bares ‘Fascist Plot’ to Seize Government by Force,” *New York Times*, November 21, 1934, [nytimes.com/1934/11/21/archives/gen-butler-bares-fascist-plot-to-seize-government-by-force-says.html](http://nytimes.com/1934/11/21/archives/gen-butler-bares-fascist-plot-to-seize-government-by-force-says.html).
    在当时席卷欧洲的“巴特勒将军揭示‘法西斯阴谋’以武力夺取政府”，《纽约时报》，1934年11月21日，nytimes.com/1934/11/21/archives/gen-butler-bares-fascist-plot-to-seize-government-by-force-says.html。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 3. **“If you find the right balance”****:** *Comedians in Cars Getting Coffee*, season 6, episode 5, “That’s the Whole Point of Apartheid, Jerry,” July 1, 2015, Crackle.
    如果你找到了合适的平衡。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 4. **The book** *What We Knew***:** Eric A. Johnson and Karl-Heinz Reuband, *What We Knew: Terror, Mass Murder, and Everyday Life in Nazi Germany* (New York: Basic Books, 2006), 156.
    《我们所知道的：埃里克·A·约翰逊和卡尔-海因茨·罗伯特所著：我们所知道的：纳粹德国的恐怖、大屠杀和日常生活》（纽约：基本图书，2006年），156页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 5. **Or take Varlam Shalamov****:** Varlam Shalamov, “Forty-Five Things I Learned in the Gulag,” *Paris Review*, June 12, 2018, [theparisreview.org/blog/2018/06/12/forty-five-things-i-learned-in-the-gulag](http://theparisreview.org/blog/2018/06/12/forty-five-things-i-learned-in-the-gulag).
    或者以瓦尔拉姆·沙拉莫夫为例：瓦尔拉姆·沙拉莫夫，《我在古拉格中学到的四十五件事》，《巴黎评论》杂志，2018年6月12日，theparisreview.org/blog/2018/06/12/forty-five-things-i-learned-in-the-gulag。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 6. **“There was no way”****:** Stephen Ambrose, *Citizen Soldiers* (New York: Simon & Schuster, 1998).
    “没有办法。”：斯蒂芬·安布罗斯，《公民士兵》（纽约：西蒙与舒斯特，1998年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 7. **Almost 80 percent of Americans****:** Pew Research Center, “Public Trust in Government: 1958–2022,” June 6, 2022, [pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022](http://pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022).
    根据皮尤研究中心的数据，近80%的美国人对政府表示不信任。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
+   
+   
 8. **“Teachers do one half”****:** *Tamborine*, directed by Bo Burnham (Los Gatos, CA: Netflix, 2018).
    “教师做一半”：《Tamborine》，导演Bo Burnham（加利福尼亚州洛斯加图斯：Netflix，2018年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 9. **Michael Collins turned to Neil Armstrong****:** Andrew Chaikin, *A Man on the Moon* (New York: Viking, 1994).
    迈克尔·柯林斯转向尼尔·阿姆斯特朗：安德鲁·查金，《月球上的一个人》（纽约：维京出版社，1994年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 ## Trying Too Hard 努力过度
 
 1. **“There’s a paradox”****:** Barak Goodman, *Cancer: The Emperor of All Maladies* (Brooklyn, NY: Ark Media, 2015).
    “有一个悖论”：巴拉克·古德曼，《癌症：所有疾病之帝》（纽约布鲁克林：Ark Media，2015年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 2. **MIT cancer researcher Robert Weinberg****:** Goodman, *Cancer: The Emperor of All Maladies*.
    麻省理工学院的癌症研究员罗伯特·温伯格：古德曼，《癌症：万恶之帝》。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 3. **“Simplicity is the hallmark of truth”****:** Edsger W. Dijkstra, “The Threats to Computing Science,” lecture, ACM 1984 South Central Regional Conference, Austin, TX, November 16–18, 1984, [cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD898.html](http://cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD898.html).
    “简单是真理的标志”: Edsger W. Dijkstra, “The Threats to Computing Science,” lecture, ACM 1984 South Central Regional Conference, Austin, TX, November 16–18, 1984, cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD898.html.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 4. **“The course of evolution has been”****:** Samuel Wendell Williston, *Water Reptiles of the Past and Present* (Chicago: University of Chicago Press, 1914), [archive.org/details/waterreptilesofp00will/page/172/mode/2up](http://archive.org/details/waterreptilesofp00will/page/172/mode/2up).
    进化的过程一直是：塞缪尔·温德尔·威利斯顿，《过去和现在的水生爬行动物》（芝加哥：芝加哥大学出版社，1914年），archive.org/details/waterreptilesofp00will/page/172/mode/2up。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 5. **Dozens of jawbones****:** W. K. Gregory, “Polyisomerism and Anisomerism in Cranial and Dental Evolution among Vertebrates,” *Proceedings of the National Academy of Sciences of the United States of America* 20, no. 1 (January 1934): 1–9, [semanticscholar.org/paper/Polyisomerism-and-Anisomerism-in-Cranial-and-Dental-Gregory/d683d13e9fbc5ea44b533cb73678c6c2f7941dea?p2dfJordan](http://semanticscholar.org/paper/Polyisomerism-and-Anisomerism-in-Cranial-and-Dental-Gregory/d683d13e9fbc5ea44b533cb73678c6c2f7941dea?p2dfJordan).
    数十个颚骨：W. K. Gregory，“脊椎动物颅骨和牙齿进化中的多异构和异构性”，《美国国家科学院院刊》20卷1期（1934年1月）：1-9，semanticscholar.org/paper/Polyisomerism-and-Anisomerism-in-Cranial-and-Dental-Gregory/d683d13e9fbc5ea44b533cb73678c6c2f7941dea?p2dfJordan。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 6. **John Reed wrote****:** John T. Reed, *Succeeding* (self published: John T. Reed Publishing, 2008).
    约翰·里德写道：约翰·T·里德，《成功》（自行出版：约翰·T·里德出版社，2008年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 7. **Stephen King explains****:** Stephen King, *On Writing: A Memoir of the Craft* (Scribner: New York, 2000).
    斯蒂芬·金解释道：《斯蒂芬·金的写作之路》（斯克里布纳出版社：纽约，2000年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 8. **quit after a few dozen pages****:** Jordan Ellenberg, “The Summer’s Most Unread Book Is . . . ,” *Wall Street Journal*, July 3, 2014, [wsj.com/articles/the-summers-most-unread-book-is-1404417569](http://wsj.com/articles/the-summers-most-unread-book-is-1404417569).
    在阅读几十页后放弃：乔丹·埃伦伯格，《今年夏天最不受欢迎的书是……》，《华尔街日报》，2014年7月3日，wsj.com/articles/the-summers-most-unread-book-is-1404417569。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 9. **McCrae had never heard of it****:** Thomas McCrae, “The Method of Zadig in the Practice of Medicine,” Address in Medicine delivered at the annual meeting of the Canadian Medical Association, St. John, NB, July 7, 1914, [ncbi.nlm.nih.gov/pmc/articles/PMC406677/pdf/canmedaj00242-0027.pdf](http://ncbi.nlm.nih.gov/pmc/articles/PMC406677/pdf/canmedaj00242-0027.pdf).
    麦克雷从未听说过它：托马斯·麦克雷，“扎迪格方法在医学实践中的应用”，发表于1914年7月7日加拿大医学协会年会的医学演讲，圣约翰，新不伦瑞克省，ncbi.nlm.nih.gov/pmc/articles/PMC406677/pdf/canmedaj00242-0027.pdf。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 ## Wounds Heal, Scars Last 伤口愈合，疤痕永存
 
 1. **Seventy** *thousand* **villages were****:** Geoffrey Roberts, *Stalin’s Wars: From World War to Cold War, 1939–1953* (New Haven, CT: Yale University Press, 2006), 4–5.
    七万个村庄：杰弗里·罗伯茨，《斯大林的战争：从第二次世界大战到冷战，1939-1953年》（康涅狄格州纽黑文：耶鲁大学出版社，2006年），4-5页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 2. **only 1,500 calories****:** Tokuaki Shobayashi, “History of Nutrition Policy in Japan,” *Nutrition Reviews* 78, supp. 3 (December 2020): 10–13, [academic.oup.com/nutritionreviews/article/78/Supplement_3/10/6012429](http://academic.oup.com/nutritionreviews/article/78/Supplement_3/10/6012429).
    仅1500卡路里：Tokuaki Shobayashi，《日本营养政策史》，《营养评论》78卷，补充3期（2020年12月）：10-13，academic.oup.com/nutritionreviews/article/78/Supplement_3/10/6012429。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 3. **A study of twenty thousand people****:** Rand Corporation, “Lasting Consequences of World War II Means More Illness, Lower Education and Fewer Chances to Marry for Survivors,” press release, January 21, 2014, [rand.org/news/press/2014/01/21/index1.html#:~:text=The%20study%20found%20that%20living,more%20likely%20to%20have%20depression](http://rand.org/news/press/2014/01/21/index1.html#:~:text=The study found that living,more likely to have depression).
    二万人的研究：兰德公司，“二战的持久后果意味着幸存者更多的疾病、较低的教育水平和较少的结婚机会”，新闻发布，2014年1月21日，rand.org/news/press/2014/01/21/index1.html#:~:text=该研究发现，生活在战争期间的人更有可能患抑郁症。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 4. **“[They] were gnawed at by”****:** Frederick Lewis Allen, *The Big Change: American Transforms Itself 1900–1950* (1952; rept., New York: Routledge, 2017), 148.
    “[他们]被……啃咬着”：弗雷德里克·刘易斯·艾伦，《大变革：美国自我转变1900-1950》（1952年；重印本，纽约：劳特利奇出版社，2017年），148页。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 5. **Pavlov wrote about****:** Ivan P. Pavlov, “Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex,” Lecture XVIII, 1927, trans. G. V. Anrep, Classics in the History of Psychology, March 2001, [psychclassics.yorku.ca/Pavlov/lecture18.htm](http://psychclassics.yorku.ca/Pavlov/lecture18.htm).
    巴甫洛夫写道：伊凡·P·巴甫洛夫，《条件反射：对大脑皮层生理活动的研究》，第十八讲，1927年，翻译：G. V. 安瑞普，心理学史经典，2001年3月，psychclassics.yorku.ca/Pavlov/lecture18.htm。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 6. **how it applies to humans****:** Pavlov, “Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex,” Lecture XXIII, trans. G. V. Anrep, Classics in the History of Psychology, July 2001, [psychclassics.yorku.ca/Pavlov/lecture23.htm#:~:text=Different%20conditions%20productive%20of%20extreme,in%20nervous%20and%20psychic%20activity](http://psychclassics.yorku.ca/Pavlov/lecture23.htm#:~:text=Different conditions productive of extreme,in nervous and psychic activity).
    如何适用于人类：巴甫洛夫，《条件反射：大脑皮层生理活动的研究》，第二十三讲，翻译：G. V. Anrep，心理学历史经典，2001年7月，psychclassics.yorku.ca/Pavlov/lecture23.htm#:~:text=Different%20conditions%20productive%20of%20extreme,in%20nervous%20and%20psychic%20activity.
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 7. **Hamilton Fish Armstrong****:** Hamilton Fish Armstrong, “Europe Revisited,” *Foreign Affairs*, July 1947, [foreignaffairs.com/articles/europe/1947-07-01/europe-revisited](http://foreignaffairs.com/articles/europe/1947-07-01/europe-revisited).
    汉密尔顿·费什·阿姆斯特朗：“汉密尔顿·费什·阿姆斯特朗，《欧洲再访》，《外交事务》，1947年7月，foreignaffairs.com/articles/europe/1947-07-01/europe-revisited。”
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 8. **Historian Tony Judt notes****:** Tony Judt, *Postwar: A History of Europe Since 1945* (New York: Penguin Press, 2005).
    历史学家托尼·贾特指出：托尼·贾特，《战后：1945年以来的欧洲历史》（纽约：企鹅出版社，2005年）。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 9. **Historian Michael Howard****:** Ta-Nehisi Coates, “ ‘War and Welfare Went Hand in Hand,’ ” *Atlantic*, November 4, 2013, [theatlantic.com/international/archive/2013/11/war-and-welfare-went-hand-in-hand/281107](http://theatlantic.com/international/archive/2013/11/war-and-welfare-went-hand-in-hand/281107).
    历史学家迈克尔·霍华德：塔内西斯·科茨，“‘战争和福利紧密相连’”，大西洋月刊，2013年11月4日，theatlantic.com/international/archive/2013/11/war-and-welfare-went-hand-in-hand/281107。
 
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
+
 
 ## Questions 问题
 
 1. **“To be nearly sixty”****:** Doris Kearns Goodwin, *No Ordinary Time* (New York: Simon & Schuster, 2008).
    快要六十岁了
-
-   [GO TO NOTE REFERENCE IN TEXT
-   在文本中查看注释引用]()
-
-
-
-
-
 
 
 # About the Author 关于作者
@@ -6930,20 +6676,6 @@ Morgan Housel is a partner at The Collaborative Fund. He is a two-time winner of
 
 
 
-# What’s next on your reading list? 你的阅读清单上接下来是什么？
-
-[Discover your next
-发现你的下一个
-great read!
-好读！](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780593332719/display/1)
-
- 
-
-Get personalized book picks and up-to-date news about this author.
-获取个性化的书籍推荐和关于这位作者的最新消息。
-
-[Sign up now.
-立即注册。](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780593332719/display/2)
 
 
 
