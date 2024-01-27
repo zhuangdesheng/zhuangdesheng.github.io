@@ -214,7 +214,7 @@ The dead outnumber the living . . . fourteen to one, and we ignore the accumulat
 
 # The Little Laws of Life 生活的小法则
 
-Ionce had lunch with a guy who’s close to Warren Buffett.
+I once had lunch with a guy who’s close to Warren Buffett.
 我曾与一个与沃伦·巴菲特关系密切的人共进午餐。
 
 This guy—we’ll call him Jim (not his real name)—was driving around Omaha, Nebraska, with Buffett in late 2009. The global economy was crippled at this point, and Omaha was no exception. Stores were closed, businesses were boarded up.
