@@ -13,12 +13,12 @@
 - 💼企业数字化咨询
 - 💼研发数字化
 - 💼EA（Enterprise Architect）
-- 💼VSE（Virtual Solution Engineer）
+- 💼VSE（Vertical Solution Engineer）
 - 💼HPC（High Performance Computing）
-- 💼AI工具试用爱好者
+- 💼AI工具使用爱好者
 - 👨‍🎓前 [BitUNiON](http://out.bitunion.org/) FTP站长
 - 👨‍🎓NetPower Adminitration Team 成员
-- 👨‍🎓BSG subgroup(BiTUNiON subgroup)
+- 👨‍🎓BSG subgroup(BiTUNiON subgroup) 字幕组成员
 - 👨‍🎓"拖拉机使用与维修"专业（D52）😂
 - 👨‍🎓小镇做题家
 - ☕︎[善用佳软](/use-software-like-a-pro/)
@@ -35,7 +35,7 @@
 
 【2022】华为制造军团首批解决方案专家
 
-【2021】参与[《汽车企业数字化转型：认知与实现》](https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAO9ZwYgXGPxBMVzqlRNk5j6yEnAa9E576Q)编写与研讨
+【2021】[《汽车企业数字化转型：认知与实现》](https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAO9ZwYgXGPxBMVzqlRNk5j6yEnAa9E576Q)参与编写与研讨
 
 【2020】 [《汽车行业高性能计算平台应用研究》](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=11479816&siteId=14&contentType=literature)
 
