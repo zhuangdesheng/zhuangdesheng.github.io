@@ -26,7 +26,7 @@
 
 ## 快速搜索
 
-
+![visual_expression](images/visual_expression.png?raw=true)
 
 ### 只搜索文件名 - everything
 
